@@ -1,0 +1,33 @@
+= Niańczenie programistów vs. zarządzanie dziećmi
+Jakub Marchwicki <@kubem> & Bartek Nowakowski <@supach>
+:idprefix: slide_
+:title-slide-background-image: cover_managers.jpg
+:title-slide-background-size: cover
+:icons: font
+:imagesdir: images
+:figure-caption!:
+//:revealjsdir: /home/kubam/workspaces/asciidoctor/reveal.js
+:revealjs_center: false
+:revealjs_theme: poang
+:revealjs_transition: fade
+:revealjs_progress: false
+:revealjs_history: true
+:revealjs_controls: false
+:revealjs_customtheme: css/poang.css
+:revealjs_width: 1920
+:revealjs_height: 1080
+
+== Zażółć żółtą jaźń
+
+Zażółć żółtą jaźń
+
+*Zażółć żółtą jaźń*
+
+[NOTE.speaker]
+--
+* Parę notatek dla spikera
+--
+
+== !
+
+Bez tytułu
