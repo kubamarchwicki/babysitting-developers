@@ -32,14 +32,4 @@ Zażółć żółtą jaźń
 
 Bez tytułu
 
-== SL II: Development Level
-image::http://images.slideplayer.com/32/10086009/slides/slide_4.jpg[]
-
-== SL II: Leadership Style
-image::http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg[]
-
-== Tight deadline
-image::http://i.giphy.com/ySdF0VEsk0xtS.gif[]
-
-== Selection
-image::http://i.giphy.com/118fWxeAceZMME.gif[]
+include::03-middle-4rd-story.adoc[]
