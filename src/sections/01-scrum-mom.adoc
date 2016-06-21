@@ -1,0 +1,98 @@
+== Historia pierwsza
+
+_Przepraszam, czy tu biją?_
+
+
+[%notitle]
+== Don't be a Scrum Mom
+
+[quote]
+____
+Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
+a skryć się przed tym, który znalazł.
+____
+
+[%notitle, data-background-image=https://cdn.meme.am/instances/500x/59694709.jpg, data-background-size=cover]
+== Tried SCRUM and it was awful
+
+[NOTE.speaker]
+--
+* Zaczniemy od SCRUMa - chociaż nie będziemy mówić o Scrumie
+* Jako że z reguły zaczyna się to wszystko od "ogarnij Scrum'a" - posłużmy się tym przykładem
+
+--
+
+== Kroki do zwycięstwa
+
+image::http://image.slidesharecdn.com/121002sgbcndevelopingscrummasters-email-121002091504-phpapp02/95/developing-scrum-masters-39-728.jpg[]
+
+[NOTE.speaker]
+--
+.Stages of becoming a leader
+* nie chcemy mikrozarządzać, nie mamy na to czasu. Wiemy / czujemy że to nie tak
+* bardzo szybko odchodzimy od pierwszego stadium. `The Scrum Dude`
+** nie jesteśmy arogandzkim typkiem zza biurka, tylko usłużnym liderem... tylko jak?
+--
+
+[%notitle]
+== Zobaczmy na przykładzie spotkań...
+
+image::http://icdn9.digitaltrends.com/image/methods-to-find-out-whats-going-on-415x557.png[]
+
+[NOTE.speaker]
+--
+.Zobaczmy na przykładzie spotkań...
+* Jest wiele różnych sposobów aby wykumać co się dzieje
+** Lider musi znaleźć sposoby aby wiedzieć implicite
+** tutaj nie ma już niestety miejsca na "bycie _on the top of pyramid_"
+* Co więcej - z reguły okazuje się że jest dobrze
+--
+
+== Z pozycji siły nic nie wskóram
+
+[NOTE.speaker]
+--
+* Mogę tylko wpływać nie rządzić...
+** A wpływać mogą jak mi ufają, jak mają szacunek
+--
+
+== Cebulowa teoria szczęścia aka. *dobrostan*
+
+[NOTE.speaker]
+--
+* dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy
+* Z Czapińskiego
+** Wola życia
+** ogólny dobrostan prsychiczny
+** zadowolenie z poszczególnych dziedzin życia
+* żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
+** i to jest podstawowe zadanie lidera
+** a to jest ciężka codzienna praca
+** a nic tak nie pokazuje zaufania jak kwestia kasy
+--
+
+==  Służenie innym to priorytet numer jeden
+
+-- The Servant Leader Manifesto &copy;
+
+[NOTE.speaker]
+--
+* Zawsze chciałem mieć własne _manifesto_ może od tego zacznę?
+** Chociaż naprawdę to pomysł Roberta Greenleafa
+* Czy inni wzrastają, tj:
+** become healthier, wiser, freer, more autonomous, more likely themselves to become servants
+--
+
+[%notitle, data-background-image=https://media.giphy.com/media/3o85xkg5PK5JLBg796/giphy.gif, data-background-size=cover]
+== No dobra... ale co jeżeli...
+
+[NOTE.speaker]
+--
+* Poluzujemy zespołowi - to co wtedy robi zespół.. skąd wiemy że robi dobrze
+* Jeżeli myślimy że mamy władzę - to jej nie mamy
+** Ci ludzie wiedzą że w ciągu 15 minut znajdą pracę.
+** Mogą zachowywać się inaczej w naszej obecności - niż gdy nas nie ma
+* Nie ma miejsca na dyskusję, szacunek, zaufanie
+* Co zatem zrobić aby całość się nie rozłaziła?
+** Jeżeli my nie kontrolujemy to skąd wiemy że będzie dobrze?
+--
