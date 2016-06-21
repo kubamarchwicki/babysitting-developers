@@ -7,7 +7,7 @@ Jakub Marchwicki <@kubem> & Bartek Nowakowski <@supach>
 :imagesdir: images
 :figure-caption!:
 //:revealjsdir: /home/kubam/workspaces/asciidoctor/reveal.js
-:revealjs_center: false
+:revealjs_center: true
 :revealjs_theme: poang
 :revealjs_transition: fade
 :revealjs_progress: false
