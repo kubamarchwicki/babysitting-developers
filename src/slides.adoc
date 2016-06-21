@@ -32,4 +32,6 @@ Zażółć żółtą jaźń
 
 Bez tytułu
 
-include::03-middle-4rd-story.adoc[]
+include::middle-2nd-story.adoc[]
+
+include::middle-4rd-story.adoc[]
