@@ -21,11 +21,8 @@ include::sections/00-wstepniak.adoc[]
 
 include::sections/01-scrum-mom.adoc[]
 
-// include::03-middle-4rd-story.adoc[]
+include::sections/02-middle-2nd-story.adoc[]
 
-
-include::middle-2nd-story.adoc[]
-
-include::middle-4rd-story.adoc[]
+include::sections/04-middle-4rd-story.adoc[]
 
 include::sections/60-oszukalismy-was.adoc[]
