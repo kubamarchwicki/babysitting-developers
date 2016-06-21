@@ -2,14 +2,14 @@
 [quote]
 Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.
 
+[%notitle, data-background-image=http://images.slideplayer.com/32/10086009/slides/slide_4.jpg, data-background-size=contain, data-background-repeat=no-repeat, data-background="#fff"]
 == SL II: Development Level
-image::http://images.slideplayer.com/32/10086009/slides/slide_4.jpg[]
 
+[%notitle, data-background-image=http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg, data-background-size=contain, data-background-repeat=no-repeat, data-background="#fff"]
 == SL II: Leadership Style
-image::http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg[]
 
+[%notitle, data-background-image=http://i.giphy.com/ySdF0VEsk0xtS.gif, data-background-size=cover]
 == Tight deadline
-image::http://i.giphy.com/ySdF0VEsk0xtS.gif[]
 
+[data-background-image=http://i.giphy.com/118fWxeAceZMME.gif, data-background-size=cover, data-background="#eee"]
 == Selection
-image::http://i.giphy.com/118fWxeAceZMME.gif[]

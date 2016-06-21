@@ -645,3 +645,7 @@ b.conum * {
 .slide-menu-button {
   visibility: hidden;
 }
+
+.slide-background {
+  background-position: 50% 0% !important;  
+}
