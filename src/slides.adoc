@@ -9,7 +9,7 @@ Jakub Marchwicki <@kubem> & Bartek Nowakowski <@supach>
 //:revealjsdir: /home/kubam/workspaces/asciidoctor/reveal.js
 :revealjs_center: true
 :revealjs_theme: poang
-:revealjs_transition: fade
+:revealjs_transition: none
 :revealjs_progress: false
 :revealjs_history: true
 :revealjs_controls: false
@@ -17,21 +17,15 @@ Jakub Marchwicki <@kubem> & Bartek Nowakowski <@supach>
 :revealjs_width: 1920
 :revealjs_height: 1080
 
-== Zażółć żółtą jaźń
+include::sections/00-wstepniak.adoc[]
 
-Zażółć żółtą jaźń
+include::sections/01-scrum-mom.adoc[]
 
-*Zażółć żółtą jaźń*
+// include::03-middle-4rd-story.adoc[]
 
-[NOTE.speaker]
---
-* Parę notatek dla spikera
---
-
-== !
-
-Bez tytułu
 
 include::middle-2nd-story.adoc[]
 
 include::middle-4rd-story.adoc[]
+
+include::sections/60-oszukalismy-was.adoc[]

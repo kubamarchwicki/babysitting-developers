@@ -116,7 +116,7 @@ body {
 
 .reveal h2 {
   font-size: 1.953em;
-  border-bottom: 1px solid white;
+  /* border-bottom: 1px solid white;*/
 }
 
 .reveal h3 {
@@ -640,4 +640,8 @@ b.conum * {
 
 .attribution cite {
   font-size: 0.6em;
+}
+
+.slide-menu-button {
+  visibility: hidden;
 }
