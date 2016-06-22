@@ -46,9 +46,9 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 [NOTE.speaker]
 --
 * gada jeszcze więcej
-* Jak przechodzimy z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
-* dla kogoś, kto przechodzi na miękką ścieżkę
-* ...
+* przechodzimy z krainy bytecodu do krainy outlooka i excela
+* pytamy HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę
+* wiecie ile ich było? ...
 --
 
 [%notitle, data-background-image=https://media.giphy.com/media/xTk9ZVv4GDWOx5fSVy/giphy.gif, data-background-size=cover]

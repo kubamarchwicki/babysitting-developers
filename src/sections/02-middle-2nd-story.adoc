@@ -25,8 +25,8 @@ ____
 * coraz bardziej doświadczony manager
 ** coraz mniej ogarniasz kod
 ** zmusza:
-*** coraz większe zaufanie
-*** coraz większa niezależność zespołu
+*** żeby zespół coraz bardziej zaangażowany
+*** żeby mógł być coraz bardzniej niezależny
 --
 
 
