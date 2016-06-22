@@ -45,7 +45,7 @@ Bardzo dużo gada
 
 [NOTE.speaker]
 --
-* Jak zaczynałem przejście z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
+* Jak przechodzimy z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
 * dla kogoś, kto przechodzi na miękką ścieżkę.
 * Było ich dokładnie 0
 --
@@ -56,7 +56,7 @@ Bardzo dużo gada
 
 [NOTE.speaker]
 --
-* Czasem zaczynaliśmy bez przygotowania, na czuja
+* Czasem zaczynaliśmy bez przygotowania, na czuja / ekslopacyjnie
 * wydawało się nam czarną magią, bo go nie rozumieliśmy
 * *po opanowaniu kilku konceptów, które Wam przedstawimy, powinno być łatwiej*
 --
@@ -67,7 +67,7 @@ Bardzo dużo gada
 
 [NOTE.speaker]
 --
-* Koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
+* Czujecie się jak koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
 ** A wrażenie jest takie że nic nie zrobiliśmy przez cały dzień
 * Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej.
 ** Bo dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.

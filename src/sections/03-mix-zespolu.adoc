@@ -91,5 +91,5 @@ _-- David Rock, 2008_
 *Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
 --
 
-
-== Przejście do kolejnego
+[%notitle, data-background-image=https://media.giphy.com/media/8kznZeCRpDgeA/giphy.gif, data-background-size=cover]
+== !

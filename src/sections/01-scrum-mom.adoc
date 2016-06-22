@@ -41,9 +41,12 @@ a skryć się przed tym, który znalazł.*
 * Scrum Master - jak wszystko ma swoje maturity model
 
 .Stages of becoming a leader
+* Szybko się orientujemy
 * nie chcemy mikrozarządzać, nie mamy na to czasu. Wiemy / czujemy że to nie tak
 * bardzo szybko odchodzimy od pierwszego stadium. `The Scrum Dude`
 ** nie jesteśmy arogandzkim typkiem zza biurka, tylko usłużnym liderem... tylko jak?
+** mieć szacunek, zaufnie. *Ale jak?*
+* Posłużmy się przykładem - skąd brać informacje o projekcie i obecnym stanie rzeczy?
 --
 
 [%notitle, data-background-image=images/methods-to-find-out-whats-going-on-415x557.png, data-background-size=contain, data-background-repeat=no-repeat, data-background="#EAE8DF"]
@@ -55,8 +58,6 @@ a skryć się przed tym, który znalazł.*
 * Jest wiele różnych sposobów aby wykumać co się dzieje
 ** Lider musi znaleźć sposoby aby wiedzieć *implicite*
 ** tutaj nie ma już niestety miejsca na "bycie _on the top of pyramid_"
-* Co więcej - z reguły okazuje się że jest dobrze
-** że przestaliśmy kazać ludziom robić rzeczy a oni sami wiedzą co robić
 --
 
 == Z pozycji siły nic nie wskóram
@@ -65,40 +66,48 @@ a skryć się przed tym, który znalazł.*
 --
 * Im szybciej to stanie się jasne, tym lepiej
 ** od autorytarnego managera ludzie odejdą bardzo szybko
-* Mogę tylko wpływać nie rządzić...
-** A wpływać mogą jak mi ufają, jak mają szacunek
-** jak się ze mną liczą
-* Więc jeżeli nie zarządzam to co robię
-** Nie zarządzam i nie robię tabelek
 --
 
-== Cebulowa teoria szczęścia aka. *dobrostan*
+== Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ
+
+[NOTE.speaker]
+--
+* A wpływać mogą jak mi ufają, jak mają szacunek
+* jak się ze mną liczą
+* Jak to zrobić
+** Nie poprzez tabelki i przezentacje
+* Musimy raczej dbać o "ludzkie dobro" - WAT?
+--
+
+== Cebulkowa teoria szczęścia aka. *dobrostan*
 
 [NOTE.speaker]
 --
 * *dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy*
-* czyli: zadowolenie z poszczególnych dziedzin życia
+* czyli: *zadowolenie z poszczególnych dziedzin życia*
 * żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
 ** i to jest podstawowe zadanie lidera
 ** a to jest ciężka codzienna praca
-** a nic tak nie pokazuje zaufania jak kwestia kasy
+** *a nic tak nie pokazuje zaufania jak kwestia kasy*
+
+*RZECZONA HISTORIA* + *URLOPY*
 --
 
-==  Służenie innym to priorytet numer jeden
-
-_The Servant Leader Manifesto &copy;_
-
-[NOTE.speaker]
---
-* Zawsze chciałem mieć własne _manifesto_ może od tego zacznę?
-** Chociaż naprawdę to pomysł Roberta Greenleafa
-* Czy inni wzrastają, tj:
-** become healthier, wiser, freer, more autonomous, more likely themselves to become servants
-* Jeżeli myślimy że mamy władzę - to jej nie mamy
-** Ci ludzie wiedzą że w ciągu 15 minut znajdą pracę.
-** Mogą zachowywać się inaczej w naszej obecności - niż gdy nas nie ma
-* Nie ma miejsca na dyskusję, szacunek, zaufanie
---
+// ==  Służenie innym to priorytet numer jeden
+//
+// _The Servant Leader Manifesto &copy;_
+//
+// [NOTE.speaker]
+// --
+// * Zawsze chciałem mieć własne _manifesto_ może od tego zacznę?
+// ** Chociaż naprawdę to pomysł Roberta Greenleafa
+// * Czy inni wzrastają, tj:
+// ** become healthier, wiser, freer, more autonomous, more likely themselves to become servants
+// * Jeżeli myślimy że mamy władzę - to jej nie mamy
+// ** Ci ludzie wiedzą że w ciągu 15 minut znajdą pracę.
+// ** Mogą zachowywać się inaczej w naszej obecności - niż gdy nas nie ma
+// * Nie ma miejsca na dyskusję, szacunek, zaufanie
+// --
 
 [%notitle, data-background-image=https://media.giphy.com/media/3o85xkg5PK5JLBg796/giphy.gif, data-background-size=cover]
 == No dobra... ale co jeżeli...
