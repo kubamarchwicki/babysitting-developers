@@ -43,6 +43,7 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 *Architekt PowerPointa*
 
+[NOTE.speaker]
 --
 * gada jeszcze więcej
 * Jak przechodzimy z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
