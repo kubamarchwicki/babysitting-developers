@@ -81,6 +81,10 @@ image::http://icdn9.digitaltrends.com/image/methods-to-find-out-whats-going-on-4
 ** Chociaż naprawdę to pomysł Roberta Greenleafa
 * Czy inni wzrastają, tj:
 ** become healthier, wiser, freer, more autonomous, more likely themselves to become servants
+* Jeżeli myślimy że mamy władzę - to jej nie mamy
+** Ci ludzie wiedzą że w ciągu 15 minut znajdą pracę.
+** Mogą zachowywać się inaczej w naszej obecności - niż gdy nas nie ma
+* Nie ma miejsca na dyskusję, szacunek, zaufanie
 --
 
 [%notitle, data-background-image=https://media.giphy.com/media/3o85xkg5PK5JLBg796/giphy.gif, data-background-size=cover]
@@ -88,11 +92,7 @@ image::http://icdn9.digitaltrends.com/image/methods-to-find-out-whats-going-on-4
 
 [NOTE.speaker]
 --
-* Poluzujemy zespołowi - to co wtedy robi zespół.. skąd wiemy że robi dobrze
-* Jeżeli myślimy że mamy władzę - to jej nie mamy
-** Ci ludzie wiedzą że w ciągu 15 minut znajdą pracę.
-** Mogą zachowywać się inaczej w naszej obecności - niż gdy nas nie ma
-* Nie ma miejsca na dyskusję, szacunek, zaufanie
 * Co zatem zrobić aby całość się nie rozłaziła?
 ** Jeżeli my nie kontrolujemy to skąd wiemy że będzie dobrze?
+* Poluzujemy zespołowi - to co wtedy robi zespół.. skąd wiemy że robi dobrze
 --
