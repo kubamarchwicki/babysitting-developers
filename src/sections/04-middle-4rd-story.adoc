@@ -8,9 +8,6 @@ _Niech Ciebie ręka nie świerzbi_
 --
 
 
-[%notitle]
-== Rozwój seniora
-
 [quote]
 ____
 Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.

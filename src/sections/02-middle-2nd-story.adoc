@@ -8,9 +8,6 @@ _Kino OFFowe_
 --
 
 
-[%notitle]
-== Odpowiedzialność zespołu
-
 [quote]
 ____
 W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności.
