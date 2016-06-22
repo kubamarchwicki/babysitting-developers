@@ -2,6 +2,11 @@
 
 _Niech Ciebie ręka nie świerzbi_
 
+[NOTE.speaker]
+--
+* Dla odmiany kolejną historię zaczynamy od cytatu
+--
+
 
 [%notitle]
 == Rozwój seniora
@@ -11,23 +16,40 @@ ____
 Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.
 ____
 
+[data-background-image=http://www.indiewire.com/wp-content/uploads/2015/05/independence-day-image.jpg, data-background-size=contain, data-background-repeat=no-repeat]
+== Independence? Why?
+
 [NOTE.speaker]
 --
-* powód dania niezależności i odpowiedzialności seniorowi?
-* jeden z modeli: Situational Leadership II
+* po co seniorowi niezależność i odpowiedzialność?
+* co robi programista jak napotuka problem? -> framework
+** Situational Leadership vII
 --
+
+
+[data-background-image=http://meetingking.com/wp-content/images/meetingking_tasks.png, data-background-size=contain, data-background-repeat=no-repeat]
+== Task in Situational Leadership II
+
+[NOTE.speaker]
+--
+* poznajmy API SL II
+* definicja tasku
+** konkret -> nie może być zbyt ogólny
+** programowanie w javie vs w java scripcie, przecież oba to programowanie
+--
+
 
 [%notitle, data-background-image=http://images.slideplayer.com/32/10086009/slides/slide_4.jpg, data-background-size=contain, data-background-repeat=no-repeat]
 == SL II: Development Level
 
 [NOTE.speaker]
 --
-* definicja tasku
-** jazda samochodem do pracy vs jazda rajdowa po torze
 * definicja development level: 4 poziomy
 ** wykres od prawej do lewej
+** w odniesieniu do konkretnego taska
 ** każdy level -> posiada dwie wartości: definicja commitmentu, definicja competence
-* przykład nauka jazdy po otrzymaniu prawka
+* przykład nauka nowego frameworka
+** aplikacja w J2EE, PoC w Springu
 --
 
 [%notitle, data-background-image=http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg, data-background-size=contain, data-background-repeat=no-repeat]
@@ -56,7 +78,7 @@ ____
 [NOTE.speaker]
 --
 * po to masz seniorów -> daj im osiągnąć powtarzalność
-* *puenta*: przy rozwijaniu -> daj niezależność i odpowiedzialność -> żeby nabrali wiary w siebie -> w odpowiednim momencie 
+* *puenta*: przy rozwijaniu -> daj niezależność i odpowiedzialność -> żeby nabrali wiary w siebie -> w odpowiednim momencie
 --
 
 

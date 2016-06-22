@@ -2,6 +2,11 @@
 
 _Kino OFFowe_
 
+[NOTE.speaker]
+--
+* drugą historię zacząć od następującego cytatu
+--
+
 
 [%notitle]
 == Odpowiedzialność zespołu
@@ -11,11 +16,17 @@ ____
 W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności.
 ____
 
+
+[data-background-image=https://ferndalecareercenter.files.wordpress.com/2013/03/experience.jpg, data-background-size=cover, data-background="#fff"]
+== Gaining experience
+
 [NOTE.speaker]
 --
 * coraz bardziej doświadczony manager
 ** coraz mniej ogarniasz kod
-** zmuszenie: coraz większe zaufanie i coraz większa niezależność zespołu
+** zmusza:
+*** coraz większe zaufanie
+*** coraz większa niezależność zespołu
 --
 
 
@@ -24,7 +35,7 @@ ____
 
 [NOTE.speaker]
 --
-* dołączasz do organizacji waterfallowej
+* dołączasz do projektu waterfallowego
 * uproszczony model wprowadzenia zmian
 ** pomysł, wartość biznesowa, szacowanie koszulkowe, akceptacja, wymagania, high level design, rozbicie na taski, harmonogram, rozdzielenie zadań, sub-taski, wycena
 ** duża ilość pośredników przed przed developerem
@@ -39,7 +50,7 @@ ____
 * ważna zaleta: zaangażowanie zespołu
 ** poprzednio: rozdzielanie tasków, ustalanie priorytetów
 ** trudno się zakochać
-* duże wyzwanie: uzyskanie niezależności (przyzwyczajenia)
+* duże wyzwanie: uzyskanie niezależności szybko (przyzwyczajenia)
 ** odpowiedzialność zespołu: estymacja, rozdzielenie story, priorytety, cel sprintu, cel biznesowy
 --
 
@@ -49,11 +60,16 @@ ____
 [NOTE.speaker]
 --
 * więcej odpowiedzialności i niezależności -> traktowanie projektu jak swoje dziecko
-* co zrobić? (zawodnik czekający na kolejne taski) -> przybliżenie do klienta
-** warsztaty - omówienie lejka sprzedażowego, pokazanie wpływu ostatniego releasu
+* co zrobić żeby osiągnąć niezależność?
+** zwalczyć syndrom zawodnika czekającego na kolejne taski -> przybliżenie do klienta
+*** warsztaty - omówienie lejka sprzedażowego, pokazanie wpływu ostatniego releasu
 * *puenta*: chcesz skutecznie skalować zespół -> skupić na stawaniu niezależnym
-* *przejście*: jednym ze sposobów na niezależny -> mieszanie zespołu
 --
 
 [data-background-image=http://i.giphy.com/nX8qvkaZK2hxe.gif, data-background-size=cover]
 == !
+
+[NOTE.speaker]
+--
+* *przejście*: innym ze sposobów na niezależny -> mieszanie zespołu
+--
