@@ -25,7 +25,11 @@
 
 == To jest Bartek
 
+*Programista Excela*
+
 == To jest Kuba
+
+*Architekt PowerPointa*
 
 [%notitle, data-background-image=https://media.giphy.com/media/xTk9ZVv4GDWOx5fSVy/giphy.gif, data-background-size=cover]
 == Ksiązki z HR
