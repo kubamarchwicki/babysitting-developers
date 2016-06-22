@@ -35,7 +35,7 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 [NOTE.speaker]
 --
-Bardzo dużo gada
+* dużo gada
 --
 
 
@@ -43,13 +43,18 @@ Bardzo dużo gada
 
 *Architekt PowerPointa*
 
+--
+* gada jeszcze więcej
+* Jak przechodzimy z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
+* dla kogoś, kto przechodzi na miękką ścieżkę
+* ...
+--
+
 [%notitle, data-background-image=https://media.giphy.com/media/xTk9ZVv4GDWOx5fSVy/giphy.gif, data-background-size=cover]
 == Ksiązki z HR
 
 [NOTE.speaker]
 --
-* Jak przechodzimy z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
-* dla kogoś, kto przechodzi na miękką ścieżkę.
 * Było ich dokładnie 0
 --
 
