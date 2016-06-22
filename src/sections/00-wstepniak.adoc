@@ -46,6 +46,7 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 [NOTE.speaker]
 --
 * gada jeszcze więcej
+* mam do Was małą prośbę - pytania na koniec, bo chcemy zachować spójność opowieści
 * przechodzimy z krainy bytecodu do krainy outlooka i excela
 * pytamy HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę
 * wiecie ile ich było? ...
