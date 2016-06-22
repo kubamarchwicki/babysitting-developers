@@ -1,15 +1,69 @@
-== Niezależność i odpowiedzialność dla seniora
-[quote]
-Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.
+== Historia czwarta
 
-[%notitle, data-background-image=http://images.slideplayer.com/32/10086009/slides/slide_4.jpg, data-background-size=contain, data-background-repeat=no-repeat, data-background="#fff"]
+_Niech Ciebie ręka nie świerzbi_
+
+
+[%notitle]
+== Rozwój seniora
+
+[quote]
+____
+Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.
+____
+
+[NOTE.speaker]
+--
+* powód dania niezależności i odpowiedzialności seniorowi?
+* jeden z modeli: Situational Leadership II
+--
+
+[%notitle, data-background-image=http://images.slideplayer.com/32/10086009/slides/slide_4.jpg, data-background-size=contain, data-background-repeat=no-repeat]
 == SL II: Development Level
 
-[%notitle, data-background-image=http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg, data-background-size=contain, data-background-repeat=no-repeat, data-background="#fff"]
+[NOTE.speaker]
+--
+* definicja tasku
+** jazda samochodem do pracy vs jazda rajdowa po torze
+* definicja development level: 4 poziomy
+** wykres od prawej do lewej
+** każdy level -> posiada dwie wartości: definicja commitmentu, definicja competence
+* przykład nauka jazdy po otrzymaniu prawka
+--
+
+[%notitle, data-background-image=http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg, data-background-size=contain, data-background-repeat=no-repeat]
 == SL II: Leadership Style
 
+[NOTE.speaker]
+--
+* definicja leadership style
+** inny development level -> inne zachowanie lidera -> w odniesieniu do poziomu competence i commitmentu
+--
+
+[data-background-image=http://static1.1.sqspcdn.com/static/f/1139029/22875950/1370823643420/shutterstock_115779916.jpg, data-background-size=cover]
+== Tight deadline
+
+[NOTE.speaker]
+--
+* mieliście na pewno taką sytuację:
+* krótki deadline, którego nie można przesunąć
+** tak jak zawsze -> świadomość, że na pewno się nie uda
+** albo wymyślić coś szalonego -> czego nikt nie nigdy robił -> ale może się udać
+--
+
+[data-background-image=images/7032561-watering-can-water-flowers-summer.jpg, data-background-size=cover]
+== !
+
+[NOTE.speaker]
+--
+* po to masz seniorów -> daj im osiągnąć powtarzalność
+* *puenta*: przy rozwijaniu -> daj niezależność i odpowiedzialność -> żeby nabrali wiary w siebie -> w odpowiednim momencie 
+--
+
+
+////
 [%notitle, data-background-image=http://i.giphy.com/ySdF0VEsk0xtS.gif, data-background-size=cover]
 == Tight deadline
 
 [data-background-image=http://i.giphy.com/118fWxeAceZMME.gif, data-background-size=cover, data-background="#eee"]
 == Selection
+////

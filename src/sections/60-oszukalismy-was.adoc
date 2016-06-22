@@ -10,6 +10,7 @@
 * No nie czytamy
 --
 
+[data-background-image=http://i.giphy.com/2FN16ohypI5A4.gif, data-background-size=cover]
 == Okłamaliśmy Was!
 
 [NOTE.speaker]
@@ -44,7 +45,9 @@ ____
 == !
 
 [quote]
+____
 W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności
+____
 
 [NOTE.speaker]
 --
@@ -54,7 +57,14 @@ A to tak naprawdę jest taki cytat
 == !
 
 [quote]
-W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności. (...) Ono zatem w istotnej mierze współdecyduje o przebiegu procesu kształcenia w  przygotowanym do tego celu otoczeniu, samo kieruje swoim uczeniem się i działaniem. (...) Nauczycielowi i wychowawcy przypada tutaj ważne zadanie, bowiem jego praca pedagogiczna polega w znacznym stopniu na umiejętnym przygotowaniu otoczenia, a więc na oddziaływaniu pośrednim.
+____
+W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
+____
+
+[NOTE.speaker]
+--
+“Charakterystyczną cechą przedszkolnej i szkolnej pedagogiki M. Montessori jest zasada wolnego wyboru zajęć, albo krótko: "swobodnej pracy". W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności. (...) Ono zatem w istotnej mierze współdecyduje o przebiegu procesu kształcenia w  przygotowanym do tego celu otoczeniu, samo kieruje swoim uczeniem się i działaniem. (...) Nauczycielowi i wychowawcy przypada tutaj ważne zadanie, bowiem jego praca pedagogiczna polega w znacznym stopniu na umiejętnym przygotowaniu otoczenia, a więc na oddziaływaniu pośrednim.
+--
 
 == Domy dziecięce
 
@@ -85,7 +95,29 @@ Metoda Montessori
 == !
 
 [quote]
+____
+“Rolą managera jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju”.
+____
+
+== !
+
+[quote]
+____
+Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.”
+____
+
+[NOTE.speaker]
+--
 Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.” “Nauczyciel (...) powinien być dostępny dla dziecka, by w razie potrzeby pomóc mu czy zachęcić do działania. Takie podejście pomaga dziecku w rozwoju poczucia pewności siebie i wewnętrznej dyscypliny.” “Największymi talentami nauczyciela czy rodzica jest umiejętność obserwowania oraz wiedza kiedy i jak zainterweniować".
+--
+
+
+== !
+
+[quote]
+____
+Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.”
+____
 
 [NOTE.speaker]
 --
