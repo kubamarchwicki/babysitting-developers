@@ -12,6 +12,13 @@ Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.
 ____
 
+[NOTE.speaker]
+--
+*Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
+a skryć się przed tym, który znalazł.*
+--
+
+
 [%notitle, data-background-image=https://cdn.meme.am/instances/500x/59694709.jpg, data-background-size=cover]
 == Tried SCRUM and it was awful
 
