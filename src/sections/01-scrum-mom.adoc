@@ -19,52 +19,53 @@ ____
 --
 * Zaczniemy od SCRUMa - chociaż nie będziemy mówić o Scrumie
 * Jako że z reguły zaczyna się to wszystko od "ogarnij Scrum'a" - posłużmy się tym przykładem
-
 --
 
-== Kroki do zwycięstwa
-
-image::http://image.slidesharecdn.com/121002sgbcndevelopingscrummasters-email-121002091504-phpapp02/95/developing-scrum-masters-39-728.jpg[]
+[%notitle, data-background-image=images/developing-scrum-masters-39-728.jpg, data-background-size=contain, data-background="#fff", data-background-repeat=no-repeat]
+== Steps towards maturity
 
 [NOTE.speaker]
 --
+* Scrum Master - jak wszystko ma swoje maturity model
+
 .Stages of becoming a leader
 * nie chcemy mikrozarządzać, nie mamy na to czasu. Wiemy / czujemy że to nie tak
 * bardzo szybko odchodzimy od pierwszego stadium. `The Scrum Dude`
 ** nie jesteśmy arogandzkim typkiem zza biurka, tylko usłużnym liderem... tylko jak?
 --
 
-[%notitle]
-== Zobaczmy na przykładzie spotkań...
-
-image::http://icdn9.digitaltrends.com/image/methods-to-find-out-whats-going-on-415x557.png[]
+[%notitle, data-background-image=images/methods-to-find-out-whats-going-on-415x557.png, data-background-size=contain, data-background-repeat=no-repeat, data-background="#EAE8DF"]
+== Let's take meeting as an example
 
 [NOTE.speaker]
 --
 .Zobaczmy na przykładzie spotkań...
 * Jest wiele różnych sposobów aby wykumać co się dzieje
-** Lider musi znaleźć sposoby aby wiedzieć implicite
+** Lider musi znaleźć sposoby aby wiedzieć *implicite*
 ** tutaj nie ma już niestety miejsca na "bycie _on the top of pyramid_"
 * Co więcej - z reguły okazuje się że jest dobrze
+** że przestaliśmy kazać ludziom robić rzeczy a oni sami wiedzą co robić
 --
 
 == Z pozycji siły nic nie wskóram
 
 [NOTE.speaker]
 --
+* Im szybciej to stanie się jasne, tym lepiej
+** od autorytarnego managera ludzie odejdą bardzo szybko
 * Mogę tylko wpływać nie rządzić...
 ** A wpływać mogą jak mi ufają, jak mają szacunek
+** jak się ze mną liczą
+* Więc jeżeli nie zarządzam to co robię
+** Nie zarządzam i nie robię tabelek
 --
 
 == Cebulowa teoria szczęścia aka. *dobrostan*
 
 [NOTE.speaker]
 --
-* dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy
-* Z Czapińskiego
-** Wola życia
-** ogólny dobrostan prsychiczny
-** zadowolenie z poszczególnych dziedzin życia
+* *dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy*
+* czyli: zadowolenie z poszczególnych dziedzin życia
 * żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
 ** i to jest podstawowe zadanie lidera
 ** a to jest ciężka codzienna praca
@@ -73,7 +74,7 @@ image::http://icdn9.digitaltrends.com/image/methods-to-find-out-whats-going-on-4
 
 ==  Służenie innym to priorytet numer jeden
 
--- The Servant Leader Manifesto &copy;
+_The Servant Leader Manifesto &copy;_
 
 [NOTE.speaker]
 --
