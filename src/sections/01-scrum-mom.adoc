@@ -14,8 +14,10 @@ ____
 
 [NOTE.speaker]
 --
-*Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
+* *Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.*
+
+* jak to się ma do tego że właśnie ktoś poprosił aby ogranąć SCRUMa w zespole
 --
 
 
@@ -24,8 +26,11 @@ a skryć się przed tym, który znalazł.*
 
 [NOTE.speaker]
 --
-* Zaczniemy od SCRUMa - chociaż nie będziemy mówić o Scrumie
-* Jako że z reguły zaczyna się to wszystko od "ogarnij Scrum'a" - posłużmy się tym przykładem
+* Spokojnie, robiliśmy i SCRUMa
+* od tego zaczniemy - chociaż nie będziemy mówić o Scrumie
+* Zaczyna się z reguły od organizacji daily (i dalej np chcemy kodować)
+** To błąd bo wchodzimy na inne terytorium
+** SCRUM Master ma development levels
 --
 
 [%notitle, data-background-image=images/developing-scrum-masters-39-728.jpg, data-background-size=contain, data-background="#fff", data-background-repeat=no-repeat]

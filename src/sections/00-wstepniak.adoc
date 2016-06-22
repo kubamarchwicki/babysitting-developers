@@ -7,12 +7,15 @@
 ** najczęściej zespołem
 * nikt od tego nie zaczynał
 ** i dobrze - albo przynajmniej nie powinien
+
+{zwsp}
+W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifehack
 --
 
 [%notitle, data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
 == Life hack
 
-== ... kiedy potrzebny jest life-hack
+== ... potrzebny jest life-hack
 
 [NOTE.speaker]
 --
@@ -26,6 +29,12 @@
 == To jest Bartek
 
 *Programista Excela*
+
+[NOTE.speaker]
+--
+Bardzo dużo gada
+--
+
 
 == To jest Kuba
 
