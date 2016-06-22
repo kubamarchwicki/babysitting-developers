@@ -51,6 +51,8 @@ ____
 
 [NOTE.speaker]
 --
+*BARTEK*
+
 A to tak naprawdę jest taki cytat
 --
 
@@ -72,6 +74,8 @@ ____
 
 [NOTE.speaker]
 --
+*KUBA*
+
 Metoda Montessori
 
 * Nazwana na twórczynią - z 1906 roku
@@ -99,6 +103,12 @@ ____
 “Rolą managera jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju”.
 ____
 
+[NOTE.speaker]
+--
+*BARTEK*
+--
+
+
 == !
 
 [quote]
@@ -121,6 +131,9 @@ ____
 
 [NOTE.speaker]
 --
+*KUBA*
+
+
 * Dziecko w fazie wrażliwej pozbawione możliwości zaspokojenia swojej potrzeby poznawczej, jest głęboko sfrustrowane i przez to rozdrażnione, płaczliwe, „nieznośne.”
 
 {zwsp}
@@ -134,6 +147,8 @@ ____
 
 [NOTE.speaker]
 --
+*BARTEK*
+
 * Jak wychowujemy nasze dzieci, to chcemy być dla nich spójni, cierpliwi, tolerancyjni.
 * W pracy o tym zapominamy, stajemy się nieludzcy
 ** Nie zawsze chce się nam być dobrym
