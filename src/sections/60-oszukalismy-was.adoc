@@ -144,7 +144,7 @@ ____
 *nie wynaleziono lepszego sposóbu rozwoju niż wychowanie naszych kochanych dzieci*
 --
 
-[%notitle, data-background-image=images/slowclap.gif, data-background-size=cover]
+[%notitle, data-background-image=http://i.giphy.com/a3IWyhkEC0p32.gif, data-background-size=cover]
 == Koniec!
 
 
