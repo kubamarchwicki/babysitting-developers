@@ -12,6 +12,12 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 *TODO* chciałeś coś tutaj dopisać
 ////
 
+[NOTE.speaker]
+--
+*Junior Associate i Fellows to dwie różne części organizacji, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że Fellow musi zajmować się młodszymi pracownikami, ale także Junior musi pomagać doświadczonym.*
+--
+
+
 == Świat nie jest jednorodny
 
 [NOTE.speaker]
@@ -74,10 +80,16 @@ i jeszcze jeden cytat
 ** Sprawiedliwość - uczciwej relacji pomiędzy ludźmi
 --
 
-== SCARF model
+== SCARF framework
 
 *Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
 
 _-- David Rock, 2008_
+
+[NOTE.speaker]
+--
+*Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
+--
+
 
 == Przejście do kolejnego
