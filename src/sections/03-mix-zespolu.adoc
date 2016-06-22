@@ -47,24 +47,28 @@ Potencjał pracownika jest to dystans między poziomem aktualnego rozwoju, okre�
 --
 i jeszcze jeden cytat
 
-* psychologia mówi *dystans intelektualny* - ale tutaj to bardziej chodzi o *dystans poznawczy*
-** pomiędzy juniorem a seniorem jest mniejszy
+* psychologia mówi o *strefie najbliższego rozwoju* -  *dystans intelektualny*
+** pomiędzy nauczycielem a uczniem, juniorem a seniorem jest mniejszy
 ** niż pomiędzy juniorem a przełożonym
 * i dzięki temu oddziaływanie jest silniejsze
 * chcemy aby ten potencjał młodszego kwitł
+
+*ale starszego też chcemy rozwijać*
 --
 
 == 守破離
 
 [NOTE.speaker]
 --
-* starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie
-* dzięki temu czuje się potrzebny
-** co więcej - when one teaches two learn
 * jak to działa: np Shu - Ha - Ri
 ** know the rules - traditional wisdom
 ** bend the rules - breaking with tradition
 ** be the rules - all moves are natural, becoming one with spirit alone
+
+* *ucząć młodszych, starszy wchodzi na kolejny poziom*
+* starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie
+* dzięki temu czuje się potrzebny
+** co więcej - when one teaches two learn
 --
 
 == Nasz gadzi mózg nie chce kary, chce nagrody
@@ -89,6 +93,10 @@ _-- David Rock, 2008_
 [NOTE.speaker]
 --
 *Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
+
+* Łączac starszych i młodszych powodujemy że ta sama decyzja odpowiada na różne potrzeby u różnych osób.
+** Framework staje się komplementarny
+** Np. Status i Przynależność
 --
 
 [%notitle, data-background-image=https://media.giphy.com/media/8kznZeCRpDgeA/giphy.gif, data-background-size=cover]

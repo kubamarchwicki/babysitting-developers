@@ -15,7 +15,10 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 [%notitle, data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
 == Life hack
 
-== ... potrzebny jest life-hack
+[data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
+== Life hack
+
+== Life hack
 
 [NOTE.speaker]
 --
