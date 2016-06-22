@@ -1,3 +1,24 @@
+== Historia piąta??
+
+[NOTE.speaker]
+--
+* Nie będzie historii..
+* Będzie pytanie.
+** Jak to jest że w psychologii, w zarządzaniu jest tyle pięknych teorii, praktyk
+** A na codzień sotsujemy zamordyzm, hand-on i command and conquer?
+** Nie czytamy tych książek
+* No nie czytamy
+--
+
+== Okłamaliśmy Was!
+
+[NOTE.speaker]
+--
+* te cytaty pochodziły z literatury fachowej
+* ale nie dotyczącej zarządzania
+* z literatury wychowania dzieci
+--
+
 == !
 
 [quote]
@@ -6,6 +27,11 @@ Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.
 ____
 
+[NOTE.speaker]
+--
+* To nie jest prawdziwy cytat.
+* Zmyśliłem go... trochę
+--
 
 == !
 
@@ -14,3 +40,74 @@ ____
 Wychowawca musi dać odczuć swą obecność dziecku, które szuka, +
 a skryć się przed tym, które znalazło.
 ____
+
+== !
+
+[quote]
+W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności
+
+[NOTE.speaker]
+--
+A to tak naprawdę jest taki cytat
+--
+
+== !
+
+[quote]
+W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności. (...) Ono zatem w istotnej mierze współdecyduje o przebiegu procesu kształcenia w  przygotowanym do tego celu otoczeniu, samo kieruje swoim uczeniem się i działaniem. (...) Nauczycielowi i wychowawcy przypada tutaj ważne zadanie, bowiem jego praca pedagogiczna polega w znacznym stopniu na umiejętnym przygotowaniu otoczenia, a więc na oddziaływaniu pośrednim.
+
+== Domy dziecięce
+
+*Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci*
+
+[NOTE.speaker]
+--
+Metoda Montessori
+
+* Nazwana na twórczynią - z 1906 roku
+* Opisała ona rozwój dziecka poprzez fazy frażliwe
+** Założyła że rodzimy się pełni pomysłów, zaangażowania, skupienia i kreatywności.
+** niestety, od pierwszych chwil życia wchodzimy w utarte schematy wychowawcze i nie rozwijamy w pełni swojego potencjału
+--
+
+== Domy dziecięce
+
+*Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci*
+
+[NOTE.speaker]
+--
+* w pewnych okresach rozwoju naturalne jest zainteresowane czymś
+* Może to być jakiś temat/zagadnienie, chęć nabycia określonych umiejętności
+** To okno musi zauważyć nauczyciel i wykorzystać
+** Bo jak okno się zamknię to już drugi raz się nie otworzy
+--
+
+== !
+
+[quote]
+Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.” “Nauczyciel (...) powinien być dostępny dla dziecka, by w razie potrzeby pomóc mu czy zachęcić do działania. Takie podejście pomaga dziecku w rozwoju poczucia pewności siebie i wewnętrznej dyscypliny.” “Największymi talentami nauczyciela czy rodzica jest umiejętność obserwowania oraz wiedza kiedy i jak zainterweniować".
+
+[NOTE.speaker]
+--
+* Dziecko w fazie wrażliwej pozbawione możliwości zaspokojenia swojej potrzeby poznawczej, jest głęboko sfrustrowane i przez to rozdrażnione, płaczliwe, „nieznośne.”
+
+{zwsp}
+
+* Jeżeli teraz spojrzycie na rolę Scrum Mastera / Servant Leadera
+* Nauczyciel nie ma mówić co dziecko robić, ma je stymulować przez odpowiednie środowisko, uczy go samodzielnego myślenia
+** Scrum Master nie mówi zespołowi że ma zacząć testować - on zmienia definition of done.
+--
+
+== Tytułem zakończenia
+
+[NOTE.speaker]
+--
+* Jak wychowujemy nasze dzieci, to chcemy być dla nich spójni, cierpliwi, tolerancyjni.
+* W pracy o tym zapominamy, stajemy się nieludzcy
+** Nie zawsze chce się nam być dobrym
+* A ludzie z którymi pracujemy są dorośli
+** nie niańczmy ich
+** chcemy ich rozwijać.
+
+*nie wynaleziono lepszego sposóbu rozwoju niż wychowanie naszych kochanych dzieci*
+--
