@@ -146,3 +146,28 @@ ____
 
 [%notitle, data-background-image=images/slowclap.gif, data-background-size=cover]
 == Koniec!
+
+
+[data-background-image=images/babisiting_shameless_plug_-_Nordea.png, data-background-size=cover]
+== !
+
+[NOTE.speaker]
+--
+* Bartek szuka programistów i devopsów
+--
+
+[data-background-image=images/babisiting_shameless_plug_-_Kuba.png, data-background-size=cover]
+== !
+
+[NOTE.speaker]
+--
+* Kuba osobistą wolność ponad pracę na etacie, jeżeli potrzebujecie szkoleń lub wsparcia w projekcie - chętnie z Wami porozmawia.
+--
+
+[data-background-image=images/babisiting_shameless_plug_-_oba.png, data-background-size=cover]
+== !
+
+[NOTE.speaker]
+--
+* Pytania?
+--
