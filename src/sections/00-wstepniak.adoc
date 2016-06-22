@@ -34,44 +34,47 @@
 [%notitle, data-background-image=https://media.giphy.com/media/xTk9ZVv4GDWOx5fSVy/giphy.gif, data-background-size=cover]
 == Ksiązki z HR
 
-== !
+[NOTE.speaker]
+--
+* Tutaj gadamy o braku książek w HR
+* Jak zaczynałem przejście z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę. Było ich dokładnie 0.
+--
 
-_Tutaj gadamy o braku książek w HR_
-
-// Jak zaczynałem przejście z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę. Było ich dokładnie 0.
 
 [%notitle, data-background-image=https://media.giphy.com/media/w48WeMIN73QsM/giphy.gif, data-background-size=cover]
 == Czarna magia
 
-== !
+[NOTE.speaker]
+--
+* Tutaj gadamy że to była czarna magia
+* Jak zaczynaliśmy zarządzanie zespołem wydawało się nam czarną magią, bo go nie rozumieliśmy. Wydaje nam się, że po opanowaniu kilku konceptów, które Wam przedstawimy, jest dużo łatwiejsze.
+--
 
-_Tutaj gadamy że to była czarna magia_
-
-// Jak zaczynaliśmy zarządzanie zespołem wydawało się nam czarną magią, bo go nie rozumieliśmy. Wydaje nam się, że po opanowaniu kilku konceptów, które Wam przedstawimy, jest dużo łatwiejsze.
 
 [%notitle, data-background-image=https://media.giphy.com/media/l39713bIWEWDoNMzK/giphy.gif, data-background-size=cover]
 == Koń po Pardubickiej
 
 [NOTE.speaker]
 --
-Po całym dniu bezsensowych zadań i rzeczy
+* Koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
 --
 
-== !
+[NOTE.speaker]
+--
+* Tutaj gadamy o wrażeniu że nic nie zrobiliśmy przez cały dzień
+* Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej. Wracasz do domu stryrany jak koń po wielka padrobickiej, a masz wrażenie, ze nic efektywnego nie zrobiłeś.
+** Dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
+ Że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
+ że twój master jest coraz bardziej w tyle za głównym branchem
+--
 
-_Tutaj gadamy o wrażeniu że nic nie zrobiliśmy przez cały dzień_
-
-// Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej. Wracasz do domu stryrany jak koń po wielka padrobickiej, a masz wrażenie, ze nic efektywnego nie zrobiłeś.
-// Dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
-// Że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
-// że twój master jest coraz bardziej w tyle za głównym branchem
 
 [%notitle, data-background-image=https://media.giphy.com/media/1MTLxzwvOnvmE/giphy.gif, data-background-size=cover]
 == Ale kim my jesteśmy
 
-== !
-
-_Tutaj gadamy o cytatach z literatury fachowej_
-
-// Żeby nie było za bardzo subiektywnie do naszych doświadczeń znaleźliśmy predykaty z literatury fachowej.
-// Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców. Papier przyjmie wszystko, często przedstawia najprostrze przykłady i pomija porażki. Prawdziwa nauka odbywa się na placu boju.
+[NOTE.speaker]
+--
+* Tutaj gadamy o cytatach z literatury fachowej
+* Żeby nie było za bardzo subiektywnie do naszych doświadczeń znaleźliśmy predykaty z literatury fachowej.
+* Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców. Papier przyjmie wszystko, często przedstawia najprostrze przykłady i pomija porażki. Prawdziwa nauka odbywa się na placu boju.
+--
