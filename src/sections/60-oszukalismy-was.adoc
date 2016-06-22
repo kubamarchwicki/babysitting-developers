@@ -7,7 +7,8 @@
 ** Jak to jest że w psychologii, w zarządzaniu jest tyle pięknych teorii, praktyk
 ** A na codzień sotsujemy zamordyzm, hand-on i command and conquer?
 ** Nie czytamy tych książek
-* No nie czytamy
+* No nie czytamy?
+* Musimy się Wam do czegoś przyznać
 --
 
 [data-background-image=http://i.giphy.com/2FN16ohypI5A4.gif, data-background-size=cover]
@@ -36,11 +37,20 @@ ____
 
 == !
 
+[quote, ??]
+____
+Wychowawca musi dać odczuć swą obecność dziecku, które szuka, +
+a skryć się przed tym, które znalazło.
+____
+
+== !
+
 [quote, Maria Montessori]
 ____
 Wychowawca musi dać odczuć swą obecność dziecku, które szuka, +
 a skryć się przed tym, które znalazło.
 ____
+
 
 == !
 
