@@ -92,7 +92,12 @@ _-- David Rock, 2008_
 
 [NOTE.speaker]
 --
-*Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
+* *Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
+** Status - poczucie istotności dla innych
+** Pewność  / przewidywalność - wiemy co wydarzy się w przyszłości
+** Autonomia - poczucie kontroli i wpływu
+** Przynależność - bezpieczeństwo w kontaktach z innymi
+** Sprawiedliwość - uczciwej relacji pomiędzy ludźmi
 
 * Łączac starszych i młodszych powodujemy że ta sama decyzja odpowiada na różne potrzeby u różnych osób.
 ** Framework staje się komplementarny
@@ -101,3 +106,9 @@ _-- David Rock, 2008_
 
 [%notitle, data-background-image=https://media.giphy.com/media/8kznZeCRpDgeA/giphy.gif, data-background-size=cover]
 == !
+
+[NOTE.speaker]
+--
+* Jak masz mix zespołu to możesz seniorowi dać niezależność i odpowiedzialność
+** *Trzeba chodować następce*
+--
