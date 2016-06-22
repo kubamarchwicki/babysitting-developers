@@ -89,9 +89,18 @@ a skryć się przed tym, który znalazł.*
 ** i to jest podstawowe zadanie lidera
 ** a to jest ciężka codzienna praca
 ** *a nic tak nie pokazuje zaufania jak kwestia kasy*
-
-*RZECZONA HISTORIA* + *URLOPY*
 --
+
+== Trust me! I'm...
+
+[NOTE.speaker]
+--
+*RZECZONA HISTORIA* + *URLOPY*
+
+* Kasa
+* Urlopy
+--
+
 
 // ==  Służenie innym to priorytet numer jeden
 //
