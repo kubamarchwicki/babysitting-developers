@@ -36,8 +36,9 @@
 
 [NOTE.speaker]
 --
-* Tutaj gadamy o braku książek w HR
-* Jak zaczynałem przejście z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę. Było ich dokładnie 0.
+* Jak zaczynałem przejście z krainy bytecodu do krainy outlooka i excela spytałem HRy o szkolenia
+* dla kogoś, kto przechodzi na miękką ścieżkę.
+* Było ich dokładnie 0
 --
 
 
@@ -46,8 +47,9 @@
 
 [NOTE.speaker]
 --
-* Tutaj gadamy że to była czarna magia
-* Jak zaczynaliśmy zarządzanie zespołem wydawało się nam czarną magią, bo go nie rozumieliśmy. Wydaje nam się, że po opanowaniu kilku konceptów, które Wam przedstawimy, jest dużo łatwiejsze.
+* Czasem zaczynaliśmy bez przygotowania, na czuja
+* wydawało się nam czarną magią, bo go nie rozumieliśmy
+* *po opanowaniu kilku konceptów, które Wam przedstawimy, powinno być łatwiej*
 --
 
 
@@ -57,15 +59,11 @@
 [NOTE.speaker]
 --
 * Koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
---
-
-[NOTE.speaker]
---
-* Tutaj gadamy o wrażeniu że nic nie zrobiliśmy przez cały dzień
-* Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej. Wracasz do domu stryrany jak koń po wielka padrobickiej, a masz wrażenie, ze nic efektywnego nie zrobiłeś.
-** Dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
- Że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
- że twój master jest coraz bardziej w tyle za głównym branchem
+** A wrażenie jest takie że nic nie zrobiliśmy przez cały dzień
+* Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej.
+** Bo dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
+** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
+** że twój master jest coraz bardziej w tyle za głównym branchem
 --
 
 
@@ -74,7 +72,9 @@
 
 [NOTE.speaker]
 --
-* Tutaj gadamy o cytatach z literatury fachowej
+* Dlaczego ktoś m przyjść posłuchać dwóch Minionków?
 * Żeby nie było za bardzo subiektywnie do naszych doświadczeń znaleźliśmy predykaty z literatury fachowej.
-* Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców. Papier przyjmie wszystko, często przedstawia najprostrze przykłady i pomija porażki. Prawdziwa nauka odbywa się na placu boju.
+* Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców.
+** Papier przyjmie wszystko, często przedstawia najprostrze przykłady i pomija porażki.
+** Prawdziwa nauka odbywa się na placu boju.
 --
