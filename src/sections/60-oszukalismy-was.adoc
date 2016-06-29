@@ -1,7 +1,7 @@
 == Historia piąta??
 
 [NOTE.speaker]
---
+====
 * Nie będzie historii..
 * Będzie pytanie.
 ** Jak to jest że w psychologii, w zarządzaniu jest tyle pięknych teorii, praktyk
@@ -9,17 +9,17 @@
 ** Nie czytamy tych książek
 * No nie czytamy?
 * Musimy się Wam do czegoś przyznać
---
+====
 
 [data-background-image=http://i.giphy.com/2FN16ohypI5A4.gif, data-background-size=cover]
 == Okłamaliśmy Was!
 
 [NOTE.speaker]
---
+====
 * te cytaty pochodziły z literatury fachowej
 * ale nie dotyczącej zarządzania
 * z literatury wychowania dzieci
---
+====
 
 == !
 
@@ -30,10 +30,10 @@ a skryć się przed tym, który znalazł.
 ____
 
 [NOTE.speaker]
---
+====
 * To nie jest prawdziwy cytat.
 * Zmyśliłem go... trochę
---
+====
 
 == !
 
@@ -60,11 +60,11 @@ W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam usta
 ____
 
 [NOTE.speaker]
---
+====
 *BARTEK*
 
 A to tak naprawdę jest taki cytat
---
+====
 
 == !
 
@@ -74,16 +74,16 @@ W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i 
 ____
 
 [NOTE.speaker]
---
+====
 “Charakterystyczną cechą przedszkolnej i szkolnej pedagogiki M. Montessori jest zasada wolnego wyboru zajęć, albo krótko: "swobodnej pracy". W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności. (...) Ono zatem w istotnej mierze współdecyduje o przebiegu procesu kształcenia w  przygotowanym do tego celu otoczeniu, samo kieruje swoim uczeniem się i działaniem. (...) Nauczycielowi i wychowawcy przypada tutaj ważne zadanie, bowiem jego praca pedagogiczna polega w znacznym stopniu na umiejętnym przygotowaniu otoczenia, a więc na oddziaływaniu pośrednim.
---
+====
 
 == Domy dziecięce
 
 *Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci*
 
 [NOTE.speaker]
---
+====
 *KUBA*
 
 Metoda Montessori
@@ -92,19 +92,19 @@ Metoda Montessori
 * Opisała ona rozwój dziecka poprzez fazy frażliwe
 ** Założyła że rodzimy się pełni pomysłów, zaangażowania, skupienia i kreatywności.
 ** niestety, od pierwszych chwil życia wchodzimy w utarte schematy wychowawcze i nie rozwijamy w pełni swojego potencjału
---
+====
 
 == Domy dziecięce
 
 *Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci*
 
 [NOTE.speaker]
---
+====
 * w pewnych okresach rozwoju naturalne jest zainteresowane czymś
 * Może to być jakiś temat/zagadnienie, chęć nabycia określonych umiejętności
 ** To okno musi zauważyć nauczyciel i wykorzystać
 ** Bo jak okno się zamknię to już drugi raz się nie otworzy
---
+====
 
 == !
 
@@ -114,9 +114,9 @@ ____
 ____
 
 [NOTE.speaker]
---
+====
 *BARTEK*
---
+====
 
 
 == !
@@ -127,9 +127,9 @@ Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem
 ____
 
 [NOTE.speaker]
---
+====
 Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.” “Nauczyciel (...) powinien być dostępny dla dziecka, by w razie potrzeby pomóc mu czy zachęcić do działania. Takie podejście pomaga dziecku w rozwoju poczucia pewności siebie i wewnętrznej dyscypliny.” “Największymi talentami nauczyciela czy rodzica jest umiejętność obserwowania oraz wiedza kiedy i jak zainterweniować".
---
+====
 
 
 == !
@@ -140,7 +140,7 @@ Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem
 ____
 
 [NOTE.speaker]
---
+====
 *KUBA*
 
 
@@ -151,12 +151,12 @@ ____
 * Jeżeli teraz spojrzycie na rolę Scrum Mastera / Servant Leadera
 * Nauczyciel nie ma mówić co dziecko robić, ma je stymulować przez odpowiednie środowisko, uczy go samodzielnego myślenia
 ** Scrum Master nie mówi zespołowi że ma zacząć testować - on zmienia definition of done.
---
+====
 
 == Tytułem zakończenia
 
 [NOTE.speaker]
---
+====
 *BARTEK*
 
 * Jak wychowujemy nasze dzieci, to chcemy być dla nich spójni, cierpliwi, tolerancyjni.
@@ -167,7 +167,7 @@ ____
 ** chcemy ich rozwijać.
 
 *nie wynaleziono lepszego sposóbu rozwoju niż wychowanie naszych kochanych dzieci*
---
+====
 
 [%notitle, data-background-image=http://i.giphy.com/a3IWyhkEC0p32.gif, data-background-size=cover]
 == Koniec!
@@ -177,22 +177,22 @@ ____
 == !
 
 [NOTE.speaker]
---
+====
 * Bartek szuka programistów i devopsów
---
+====
 
 [data-background-image=images/babisiting_shameless_plug_-_Kuba.png, data-background-size=cover]
 == !
 
 [NOTE.speaker]
---
+====
 * Kuba osobistą wolność ponad pracę na etacie, jeżeli potrzebujecie szkoleń lub wsparcia w projekcie - chętnie z Wami porozmawia.
---
+====
 
 [data-background-image=images/babisiting_shameless_plug_-_oba.png, data-background-size=cover]
 == !
 
 [NOTE.speaker]
---
+====
 * Pytania?
---
+====

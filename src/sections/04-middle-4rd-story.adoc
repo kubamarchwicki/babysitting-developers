@@ -3,9 +3,9 @@
 _Niech Ciebie ręka nie świerzbi_
 
 [NOTE.speaker]
---
+====
 * Dla odmiany kolejną historię zaczynamy od cytatu
---
+====
 
 
 [quote]
@@ -17,66 +17,66 @@ ____
 == Independence? Why?
 
 [NOTE.speaker]
---
+====
 * po co seniorowi niezależność i odpowiedzialność?
 * co robi programista jak napotuka problem? -> framework
 ** Situational Leadership vII
---
+====
 
 
 [data-background-image=http://meetingking.com/wp-content/images/meetingking_tasks.png, data-background-size=contain, data-background-repeat=no-repeat]
 == Task in Situational Leadership II
 
 [NOTE.speaker]
---
+====
 * poznajmy API SL II
 * definicja tasku
 ** konkret -> nie może być zbyt ogólny
 ** programowanie w javie vs w java scripcie, przecież oba to programowanie
---
+====
 
 
 [%notitle, data-background-image=http://images.slideplayer.com/32/10086009/slides/slide_4.jpg, data-background-size=contain, data-background-repeat=no-repeat]
 == SL II: Development Level
 
 [NOTE.speaker]
---
+====
 * definicja development level: 4 poziomy
 ** wykres od prawej do lewej
 ** w odniesieniu do konkretnego taska
 ** każdy level -> posiada dwie wartości: definicja commitmentu, definicja competence
 * przykład nauka nowego frameworka
 ** aplikacja w J2EE, PoC w Springu
---
+====
 
 [%notitle, data-background-image=http://learningpointinc.com/wp-content/uploads/2015/01/situational-leadership-model.jpg, data-background-size=contain, data-background-repeat=no-repeat]
 == SL II: Leadership Style
 
 [NOTE.speaker]
---
+====
 * definicja leadership style
 ** inny development level -> inne zachowanie lidera -> w odniesieniu do poziomu competence i commitmentu
---
+====
 
 [data-background-image=http://static1.1.sqspcdn.com/static/f/1139029/22875950/1370823643420/shutterstock_115779916.jpg, data-background-size=cover]
 == Tight deadline
 
 [NOTE.speaker]
---
+====
 * mieliście na pewno taką sytuację:
 * krótki deadline, którego nie można przesunąć
 ** tak jak zawsze -> świadomość, że na pewno się nie uda
 ** albo wymyślić coś szalonego -> czego nikt nie nigdy robił -> ale może się udać
---
+====
 
 [data-background-image=images/7032561-watering-can-water-flowers-summer.jpg, data-background-size=cover]
 == !
 
 [NOTE.speaker]
---
+====
 * po to masz seniorów -> daj im osiągnąć powtarzalność
 * *puenta*: przy rozwijaniu -> daj niezależność i odpowiedzialność -> żeby nabrali wiary w siebie -> w odpowiednim momencie
---
+====
 
 
 ////

@@ -13,31 +13,31 @@ a skryć się przed tym, który znalazł.
 ____
 
 [NOTE.speaker]
---
+====
 * *Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.*
 
 * jak to się ma do tego że właśnie ktoś poprosił aby ogranąć SCRUMa w zespole
---
+====
 
 
 [%notitle, data-background-image=https://cdn.meme.am/instances/500x/59694709.jpg, data-background-size=cover]
 == Tried SCRUM and it was awful
 
 [NOTE.speaker]
---
+====
 * Spokojnie, robiliśmy i SCRUMa
 * od tego zaczniemy - chociaż nie będziemy mówić o Scrumie
 * Zaczyna się z reguły od organizacji daily (i dalej np chcemy kodować)
 ** To błąd bo wchodzimy na inne terytorium
 ** SCRUM Master ma development levels
---
+====
 
 [%notitle, data-background-image=images/developing-scrum-masters-39-728.jpg, data-background-size=contain, data-background="#fff", data-background-repeat=no-repeat]
 == Steps towards maturity
 
 [NOTE.speaker]
---
+====
 * Scrum Master - jak wszystko ma swoje maturity model
 
 .Stages of becoming a leader
@@ -47,59 +47,59 @@ a skryć się przed tym, który znalazł.*
 ** nie jesteśmy arogandzkim typkiem zza biurka, tylko usłużnym liderem... tylko jak?
 ** mieć szacunek, zaufnie. *Ale jak?*
 * Posłużmy się przykładem - skąd brać informacje o projekcie i obecnym stanie rzeczy?
---
+====
 
 [%notitle, data-background-image=images/methods-to-find-out-whats-going-on-415x557.png, data-background-size=contain, data-background-repeat=no-repeat, data-background="#EAE8DF"]
 == Let's take meeting as an example
 
 [NOTE.speaker]
---
+====
 .Zobaczmy na przykładzie spotkań...
 * Jest wiele różnych sposobów aby wykumać co się dzieje
 ** Lider musi znaleźć sposoby aby wiedzieć *implicite*
 ** tutaj nie ma już niestety miejsca na "bycie _on the top of pyramid_"
---
+====
 
 == Z pozycji siły nic nie wskóram
 
 [NOTE.speaker]
---
+====
 * Im szybciej to stanie się jasne, tym lepiej
 ** od autorytarnego managera ludzie odejdą bardzo szybko
---
+====
 
 == Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ
 
 [NOTE.speaker]
---
+====
 * A wpływać mogą jak mi ufają, jak mają szacunek
 * jak się ze mną liczą
 * Jak to zrobić
 ** Nie poprzez tabelki i przezentacje
 * Musimy raczej dbać o "ludzkie dobro" - WAT?
---
+====
 
 == Cebulkowa teoria szczęścia aka. *dobrostan*
 
 [NOTE.speaker]
---
+====
 * *dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy*
 * czyli: *zadowolenie z poszczególnych dziedzin życia*
 * żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
 ** i to jest podstawowe zadanie lidera
 ** a to jest ciężka codzienna praca
 ** *a nic tak nie pokazuje zaufania jak kwestia kasy*
---
+====
 
 == Trust me! I'm...
 
 [NOTE.speaker]
---
+====
 *RZECZONA HISTORIA* + *URLOPY*
 
 * Kasa
 * Urlopy
---
+====
 
 
 // ==  Służenie innym to priorytet numer jeden
@@ -122,8 +122,8 @@ a skryć się przed tym, który znalazł.*
 == No dobra... ale co jeżeli...
 
 [NOTE.speaker]
---
+====
 * Co zatem zrobić aby całość się nie rozłaziła?
 ** Jeżeli my nie kontrolujemy to skąd wiemy że będzie dobrze?
 * Poluzujemy zespołowi - to co wtedy robi zespół.. skąd wiemy że robi dobrze
---
+====

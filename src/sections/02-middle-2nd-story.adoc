@@ -3,9 +3,9 @@
 _Kino OFFowe_
 
 [NOTE.speaker]
---
+====
 * drugą historię zacząć od następującego cytatu
---
+====
 
 
 [quote]
@@ -18,56 +18,56 @@ ____
 == Gaining experience
 
 [NOTE.speaker]
---
+====
 * coraz bardziej doświadczony manager
 ** coraz mniej ogarniasz kod
 ** zmusza:
 *** żeby zespół coraz bardziej zaangażowany
 *** żeby mógł być coraz bardzniej niezależny
---
+====
 
 
 [data-background-image=http://kingofwallpapers.com/waterfall/waterfall-008.jpg, data-background-size=cover, data-background="#fff"]
 == It all starts with waterfall
 
 [NOTE.speaker]
---
+====
 * dołączasz do projektu waterfallowego
 * uproszczony model wprowadzenia zmian
 ** pomysł, wartość biznesowa, szacowanie koszulkowe, akceptacja, wymagania, high level design, rozbicie na taski, harmonogram, rozdzielenie zadań, sub-taski, wycena
 ** duża ilość pośredników przed przed developerem
---
+====
 
 [data-background-image=https://leantesting-wp.s3.amazonaws.com/resources/wp-content/uploads/2016/05/98-shutterstock_186484241.jpg, data-background-size=cover]
 == So you think you can agile
 
 [NOTE.speaker]
---
+====
 * decyzja: przejście na scruma
 * ważna zaleta: zaangażowanie zespołu
 ** poprzednio: rozdzielanie tasków, ustalanie priorytetów
 ** trudno się zakochać
 * duże wyzwanie: uzyskanie niezależności szybko (przyzwyczajenia)
 ** odpowiedzialność zespołu: estymacja, rozdzielenie story, priorytety, cel sprintu, cel biznesowy
---
+====
 
 [data-background-image=https://rosaliestanton.files.wordpress.com/2014/09/smeagol.jpg, data-background-size=cover, data-background="#fff"]
 == My preciousssss
 
 [NOTE.speaker]
---
+====
 * więcej odpowiedzialności i niezależności -> traktowanie projektu jak swoje dziecko
 * co zrobić żeby osiągnąć niezależność?
 ** zwalczyć syndrom zawodnika czekającego na kolejne taski -> przybliżenie do klienta
 *** warsztaty z klientem - omówienie lejka sprzedażowego
 *** pokazanie wpływu na konwersję ostatniego releasu
 * *puenta*: chcesz skutecznie skalować zespół -> skupić na stawaniu niezależnym
---
+====
 
 [data-background-image=http://i.giphy.com/nX8qvkaZK2hxe.gif, data-background-size=cover]
 == !
 
 [NOTE.speaker]
---
+====
 * *przejście*: innym ze sposobów na niezależny -> mieszanie zespołu
---
+====

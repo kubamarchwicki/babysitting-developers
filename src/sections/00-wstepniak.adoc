@@ -1,7 +1,7 @@
 == W życiu każdego z nas przychodzi taki moment...
 
 [NOTE.speaker]
---
+====
 * w karierze każdego z nas przychodzi taki moment
 * mniej lub bardziej świadomie zaczynacie zarządzać
 ** najczęściej zespołem
@@ -10,7 +10,7 @@
 
 {zwsp}
 W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifehack
---
+====
 
 [%notitle, data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
 == Life hack
@@ -21,22 +21,22 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 == Life hack
 
 [NOTE.speaker]
---
+====
 * no więc postanowiliśmy podzielić się kilkoma life-hackami
 * kilka tematów, tipów, spostrzeżeń które nam pomogły
 ** gdy przechodziliśmy na ścieżkę nie techniczną
 ** rzeczy które zainspiują
 * zainspirują bo to nie są wzorce, nie są prawdy objawione
---
+====
 
 == To jest Bartek
 
 *Programista Excela*
 
 [NOTE.speaker]
---
+====
 * dużo gada
---
+====
 
 
 == To jest Kuba
@@ -44,56 +44,56 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 *Architekt PowerPointa*
 
 [NOTE.speaker]
---
+====
 * gada jeszcze więcej
 * mam do Was małą prośbę - pytania na koniec, bo chcemy zachować spójność opowieści
 * przechodzimy z krainy bytecodu do krainy outlooka i excela
 * pytamy HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę
 * wiecie ile ich było? ...
---
+====
 
 [%notitle, data-background-image=https://media.giphy.com/media/xTk9ZVv4GDWOx5fSVy/giphy.gif, data-background-size=cover]
 == Ksiązki z HR
 
 [NOTE.speaker]
---
+====
 * Było ich dokładnie 0
---
+====
 
 
 [%notitle, data-background-image=https://media.giphy.com/media/w48WeMIN73QsM/giphy.gif, data-background-size=cover]
 == Czarna magia
 
 [NOTE.speaker]
---
+====
 * Czasem zaczynaliśmy bez przygotowania, na czuja / ekslopacyjnie
 * wydawało się nam czarną magią, bo go nie rozumieliśmy
 * *po opanowaniu kilku konceptów, które Wam przedstawimy, powinno być łatwiej*
---
+====
 
 
 [%notitle, data-background-image=https://media.giphy.com/media/l39713bIWEWDoNMzK/giphy.gif, data-background-size=cover]
 == Koń po Pardubickiej
 
 [NOTE.speaker]
---
+====
 * Czujecie się jak koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
 ** A wrażenie jest takie że nic nie zrobiliśmy przez cały dzień
 * Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej.
 ** Bo dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
 ** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
 ** że twój master jest coraz bardziej w tyle za głównym branchem
---
+====
 
 
 [%notitle, data-background-image=https://media.giphy.com/media/1MTLxzwvOnvmE/giphy.gif, data-background-size=cover]
 == Ale kim my jesteśmy
 
 [NOTE.speaker]
---
+====
 * Dlaczego ktoś m przyjść posłuchać dwóch Minionków?
 * Żeby nie było za bardzo subiektywnie do naszych doświadczeń znaleźliśmy predykaty z literatury fachowej.
 * Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców.
 ** Papier przyjmie wszystko, często przedstawia najprostrze przykłady i pomija porażki.
 ** Prawdziwa nauka odbywa się na placu boju.
---
+====

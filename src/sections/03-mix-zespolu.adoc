@@ -13,30 +13,30 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 ////
 
 [NOTE.speaker]
---
+====
 *Junior Associate i Fellows to dwie różne części organizacji, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że Fellow musi zajmować się młodszymi pracownikami, ale także Junior musi pomagać doświadczonym.*
---
+====
 
 
 == Świat nie jest jednorodny
 
 [NOTE.speaker]
---
+====
 * chcemy aby zespół działał do celu i stawał się niezależnym
 ** naturalnym dla nas jest że nie może być to zespół samych juniorów
 ** nie mogą to być samo zblazowani seniorzy, którzy wszystko już widzieli i wiedzą że to się nie da
---
+====
 
 == Stan równowagi a nie stan równości
 
 [NOTE.speaker]
---
+====
 * młodzi mają więcej entuzjazmu - co wpływa naproduktywność
 * wydajacze mają wiedzę i doświadczenie - co wpływa na produktywność
 * każdy z nas widział jak junior zrobił coś bo nie wiedział że się nie da
 * każdy z nas widział jak senior - jednym rzutem oka rozwiązywał problemy na którymi młodzież ślęczała dość długo
 ** on tam po prostu był.. i to widział
---
+====
 
 == !
 
@@ -44,7 +44,7 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 Potencjał pracownika jest to dystans między poziomem aktualnego rozwoju, określanym na podstawie umiejętności samodzielnego rozwiązywania problemów, a potencjalnym poziomem rozwoju, określanym na podstawie umiejętności rozwiązywania problemów pod kierunkiem doświadcznego pracownika.
 
 [NOTE.speaker]
---
+====
 i jeszcze jeden cytat
 
 * psychologia mówi o *strefie najbliższego rozwoju* -  *dystans intelektualny*
@@ -54,12 +54,12 @@ i jeszcze jeden cytat
 * chcemy aby ten potencjał młodszego kwitł
 
 *ale starszego też chcemy rozwijać*
---
+====
 
 == 守破離
 
 [NOTE.speaker]
---
+====
 * jak to działa: np Shu - Ha - Ri
 ** know the rules - traditional wisdom
 ** bend the rules - breaking with tradition
@@ -69,12 +69,12 @@ i jeszcze jeden cytat
 * starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie
 * dzięki temu czuje się potrzebny
 ** co więcej - when one teaches two learn
---
+====
 
 == Nasz gadzi mózg nie chce kary, chce nagrody
 
 [NOTE.speaker]
---
+====
 * Jeżeli stymulacja kojarzy się pozytywnie (z nagrodą) to nasz mózg naturalnie będzie do tego dążył
 * Modeluj świat do okoła zespołu aby odpowiadał na te potrzeby
 ** Status - poczucie istotności dla innych
@@ -82,7 +82,7 @@ i jeszcze jeden cytat
 ** Autonomia - poczucie kontroli i wpływu
 ** Przynależność - bezpieczeństwo w kontaktach z innymi
 ** Sprawiedliwość - uczciwej relacji pomiędzy ludźmi
---
+====
 
 == SCARF framework
 
@@ -91,7 +91,7 @@ i jeszcze jeden cytat
 _-- David Rock, 2008_
 
 [NOTE.speaker]
---
+====
 * *Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
 ** Status - poczucie istotności dla innych
 ** Pewność  / przewidywalność - wiemy co wydarzy się w przyszłości
@@ -102,13 +102,13 @@ _-- David Rock, 2008_
 * Łączac starszych i młodszych powodujemy że ta sama decyzja odpowiada na różne potrzeby u różnych osób.
 ** Framework staje się komplementarny
 ** Np. Status i Przynależność
---
+====
 
 [%notitle, data-background-image=https://media.giphy.com/media/8kznZeCRpDgeA/giphy.gif, data-background-size=cover]
 == !
 
 [NOTE.speaker]
---
+====
 * Jak masz mix zespołu to możesz seniorowi dać niezależność i odpowiedzialność
 ** *Trzeba chodować następce*
---
+====
