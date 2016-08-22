@@ -2,6 +2,8 @@
 
 [NOTE.speaker]
 ====
+*KUBA*
+
 * w karierze każdego z nas przychodzi taki moment
 * mniej lub bardziej świadomie zaczynacie zarządzać
 ** najczęściej zespołem
@@ -45,6 +47,8 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 [NOTE.speaker]
 ====
+*BARTEK*
+
 * gada jeszcze więcej
 * mam do Was małą prośbę - pytania na koniec, bo chcemy zachować spójność opowieści
 * przechodzimy z krainy bytecodu do krainy outlooka i excela

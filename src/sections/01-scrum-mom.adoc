@@ -76,10 +76,13 @@ a skryć się przed tym, który znalazł.*
 * jak się ze mną liczą
 * Jak to zrobić
 ** Nie poprzez tabelki i przezentacje
-* Musimy raczej dbać o "ludzkie dobro" - WAT?
+
+{zwsp}
+
+* a może tak by ludzie zaufali?
 ====
 
-== Cebulkowa teoria szczęścia aka. *dobrostan*
+== Trust me! I'm...
 
 [NOTE.speaker]
 ====
@@ -89,18 +92,8 @@ a skryć się przed tym, który znalazł.*
 ** i to jest podstawowe zadanie lidera
 ** a to jest ciężka codzienna praca
 ** *a nic tak nie pokazuje zaufania jak kwestia kasy*
+* *czy poważnie muszę kontrolować urlopy?* - czy ludzie sami mogą to kontrolować?
 ====
-
-== Trust me! I'm...
-
-[NOTE.speaker]
-====
-*RZECZONA HISTORIA* + *URLOPY*
-
-* Kasa
-* Urlopy
-====
-
 
 // ==  Służenie innym to priorytet numer jeden
 //
@@ -126,4 +119,6 @@ a skryć się przed tym, który znalazł.*
 * Co zatem zrobić aby całość się nie rozłaziła?
 ** Jeżeli my nie kontrolujemy to skąd wiemy że będzie dobrze?
 * Poluzujemy zespołowi - to co wtedy robi zespół.. skąd wiemy że robi dobrze
+* Przecież jedynym sposobem pracy z zespołem nie jest zamordyzm
+** A jedyną metodą feedback *wpierdol*
 ====

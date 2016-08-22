@@ -14,16 +14,9 @@
 [data-background-image=http://i.giphy.com/2FN16ohypI5A4.gif, data-background-size=cover]
 == Okłamaliśmy Was!
 
-[NOTE.speaker]
-====
-* te cytaty pochodziły z literatury fachowej
-* ale nie dotyczącej zarządzania
-* z literatury wychowania dzieci
-====
-
 == !
 
-[quote]
+[quote, ??]
 ____
 Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.
@@ -45,16 +38,7 @@ ____
 
 == !
 
-[quote, Maria Montessori]
-____
-Wychowawca musi dać odczuć swą obecność dziecku, które szuka, +
-a skryć się przed tym, które znalazło.
-____
-
-
-== !
-
-[quote]
+[quote, ??]
 ____
 W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności
 ____
@@ -68,14 +52,29 @@ A to tak naprawdę jest taki cytat
 
 == !
 
-[quote]
+[quote, ??]
 ____
 W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
 ____
 
+== !
+
+[quote, Maria Montessori]
+____
+W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
+____
+
+
 [NOTE.speaker]
 ====
+* te cytaty pochodziły z literatury fachowej
+* ale nie dotyczącej zarządzania
+* z literatury wychowania dzieci
+
+////
 “Charakterystyczną cechą przedszkolnej i szkolnej pedagogiki M. Montessori jest zasada wolnego wyboru zajęć, albo krótko: "swobodnej pracy". W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności. (...) Ono zatem w istotnej mierze współdecyduje o przebiegu procesu kształcenia w  przygotowanym do tego celu otoczeniu, samo kieruje swoim uczeniem się i działaniem. (...) Nauczycielowi i wychowawcy przypada tutaj ważne zadanie, bowiem jego praca pedagogiczna polega w znacznym stopniu na umiejętnym przygotowaniu otoczenia, a więc na oddziaływaniu pośrednim.
+////
+
 ====
 
 == Domy dziecięce
