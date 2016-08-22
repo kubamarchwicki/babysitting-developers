@@ -59,8 +59,9 @@ ____
 * więcej odpowiedzialności i niezależności -> traktowanie projektu jak swoje dziecko
 * co zrobić żeby osiągnąć niezależność?
 ** zwalczyć syndrom zawodnika czekającego na kolejne taski -> przybliżenie do klienta
-*** warsztaty z klientem - omówienie lejka sprzedażowego
+*** warsztaty z klientem - omówienie lejka sprzedażowego // opowiedzieć w pierwszej osobie
 *** pokazanie wpływu na konwersję ostatniego releasu
+*** wrzucenie swetra do klienta // ostatni garnitur ze ślubu, musileliśmy go przebrać, ale ryzyko się opłaciło bo jak otworzył buzię przed klientem ...
 * *puenta*: chcesz skutecznie skalować zespół -> skupić na stawaniu niezależnym
 ====
 
