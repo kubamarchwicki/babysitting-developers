@@ -1,6 +1,6 @@
 == Historia czwarta
 
-_Niech Ciebie ręka nie świerzbi_
+// _Niech Ciebie ręka nie świerzbi_
 
 [NOTE.speaker]
 ====

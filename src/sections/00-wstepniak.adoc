@@ -27,6 +27,7 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 * no więc postanowiliśmy podzielić się kilkoma life-hackami
 * kilka tematów, tipów, spostrzeżeń które nam pomogły
 ** gdy przechodziliśmy na ścieżkę nie techniczną
+** ale myślimy że te rzeczy są dość uniwersalne
 ** rzeczy które zainspiują
 * zainspirują bo to nie są wzorce, nie są prawdy objawione
 ====
@@ -70,6 +71,8 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 [NOTE.speaker]
 ====
+*KUBA*
+
 * Czasem zaczynaliśmy bez przygotowania, na czuja / ekslopacyjnie
 * wydawało się nam czarną magią, bo go nie rozumieliśmy
 * *po opanowaniu kilku konceptów, które Wam przedstawimy, powinno być łatwiej*
@@ -81,12 +84,15 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 [NOTE.speaker]
 ====
-* Czujecie się jak koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
-** A wrażenie jest takie że nic nie zrobiliśmy przez cały dzień
+*KUBA*
+
 * Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej.
 ** Bo dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
 ** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
 ** że twój master jest coraz bardziej w tyle za głównym branchem
+* Czujecie się jak koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
+** A wrażenie jest takie że nic nie zrobiliśmy przez cały dzień
+** Jedyne na co ma się siłe to kanapa, lampka, szklanka, butelka czerwonego wina i (o ile) książka
 ====
 
 
@@ -95,6 +101,8 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 [NOTE.speaker]
 ====
+*BARTEK*
+
 * Dlaczego ktoś m przyjść posłuchać dwóch Minionków?
 * Żeby nie było za bardzo subiektywnie do naszych doświadczeń znaleźliśmy predykaty z literatury fachowej.
 * Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców.

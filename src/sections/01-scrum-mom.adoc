@@ -1,6 +1,6 @@
 == Historia pierwsza
 
-_Przepraszam, czy tu biją?_
+// _Przepraszam, czy tu biją?_
 
 
 [%notitle]
@@ -17,7 +17,9 @@ ____
 * *Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.*
 
-* jak to się ma do tego że właśnie ktoś poprosił aby ogranąć SCRUMa w zespole
+{zwsp}
+
+* ale skoro mamy zacząć od początku - to jakoś tak zawsze zaczyna się od scruma
 ====
 
 
@@ -44,8 +46,8 @@ a skryć się przed tym, który znalazł.*
 * Szybko się orientujemy
 * nie chcemy mikrozarządzać, nie mamy na to czasu. Wiemy / czujemy że to nie tak
 * bardzo szybko odchodzimy od pierwszego stadium. `The Scrum Dude`
-** nie jesteśmy arogandzkim typkiem zza biurka, tylko usłużnym liderem... tylko jak?
-** mieć szacunek, zaufnie. *Ale jak?*
+** *nie po to studiowałeś 5 lat infomatykę aby teraz robić za sekretarkę*
+* nie jesteśmy arogandzkim typkiem zza biurka, ktoś coś powiedział o liderze... tylko jak zacząć? *mieć szacunek, zaufnie. Ale jak?*
 * Posłużmy się przykładem - skąd brać informacje o projekcie i obecnym stanie rzeczy?
 ====
 
@@ -62,36 +64,35 @@ a skryć się przed tym, który znalazł.*
 
 == Z pozycji siły nic nie wskóram
 
+_Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ_
+
 [NOTE.speaker]
 ====
 * Im szybciej to stanie się jasne, tym lepiej
 ** od autorytarnego managera ludzie odejdą bardzo szybko
-====
-
-== Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ
-
-[NOTE.speaker]
-====
 * A wpływać mogą jak mi ufają, jak mają szacunek
-* jak się ze mną liczą
-* Jak to zrobić
+** jak się ze mną liczą
+** Jak to zrobić
 ** Nie poprzez tabelki i przezentacje
 
 {zwsp}
 
 * a może tak by ludzie zaufali?
+
 ====
 
-== Trust me! I'm...
+[data-background-image=images/trust_me_engineer.png, data-background-size=cover]
+== Trust me! I'm engineer
 
 [NOTE.speaker]
 ====
-* *dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy*
-* czyli: *zadowolenie z poszczególnych dziedzin życia*
-* żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
-** i to jest podstawowe zadanie lidera
-** a to jest ciężka codzienna praca
-** *a nic tak nie pokazuje zaufania jak kwestia kasy*
+* zasada wzajemności
+* możecie być z ich świata
+* mi było łatwo - potrafilem wciąż rozwiązać większość problemów technicznych
+** ale to ogranicza, bo nie uczyłem się rozwiązywać problemów nietechnicznych wystarczająco sprawnie
+* albo lepiej - pokazać się że ten świat Was interesuje
+** że ich świat jest interesujący i *ufacie że to ONI są specjalistami*
+* *a nic tak nie pokazuje zaufania jak kwestia kasy*
 * *czy poważnie muszę kontrolować urlopy?* - czy ludzie sami mogą to kontrolować?
 ====
 
@@ -119,6 +120,5 @@ a skryć się przed tym, który znalazł.*
 * Co zatem zrobić aby całość się nie rozłaziła?
 ** Jeżeli my nie kontrolujemy to skąd wiemy że będzie dobrze?
 * Poluzujemy zespołowi - to co wtedy robi zespół.. skąd wiemy że robi dobrze
-* Przecież jedynym sposobem pracy z zespołem nie jest zamordyzm
-** A jedyną metodą feedback *wpierdol*
+* *ze zmierza w dobrym kierunku a nie jest to samopas*
 ====
