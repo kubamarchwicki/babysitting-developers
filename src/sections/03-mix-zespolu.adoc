@@ -5,7 +5,7 @@
 == !
 
 [quote]
-Junior Associate i Fellows to dwie różne części organizacji, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że Fellow musi zajmować się młodszymi pracownikami, ale także Junior musi pomagać doświadczonym.
+_Junior Associates_ i _Fellows_ to dwie różne części organizacji, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że Fellow musi zajmować się młodszymi pracownikami, ale także Junior musi pomagać tym doświadczonym.
 
 ////
 Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że dorosły musi pomagać dziecku, ale także dziecko musi pomagać dorosłemu.
@@ -14,7 +14,7 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 
 [NOTE.speaker]
 ====
-*Junior Associate i Fellows to dwie różne części organizacji, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że Fellow musi zajmować się młodszymi pracownikami, ale także Junior musi pomagać doświadczonym.*
+*Junior Associates i Fellows to dwie różne części organizacji, które nawzajem wpływają na siebie i przy obopólnej pomocy powinny współistnieć w harmonii. To nie jest więc tylko tak, że Fellow musi zajmować się młodszymi pracownikami, ale także Junior musi pomagać tym doświadczonym.*
 ====
 
 
@@ -36,6 +36,10 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 * każdy z nas widział jak junior zrobił coś bo nie wiedział że się nie da
 * każdy z nas widział jak senior - jednym rzutem oka rozwiązywał problemy na którymi młodzież ślęczała dość długo
 ** on tam po prostu był.. i to widział
+
+{zwsp}
+
+* jasna sprawa, ale *z czego to wynika?*
 ====
 
 == !
@@ -47,10 +51,12 @@ Potencjał pracownika jest to dystans między poziomem aktualnego rozwoju, okre�
 ====
 i jeszcze jeden cytat
 
-* psychologia mówi o *strefie najbliższego rozwoju* -  *dystans intelektualny*
+* psychologia mówimy o tym -  *dystans intelektualny*
 ** pomiędzy nauczycielem a uczniem, juniorem a seniorem jest mniejszy
 ** niż pomiędzy juniorem a przełożonym
-* i dzięki temu oddziaływanie jest silniejsze
+** przełożony fruwa gdzieś tam
+** *mi ktoś kiedyś powiedział że muszę dobierać słowa, bo pracwnicy inaczej je rozumieją niż to co ja mam na myśli*
+* oddziaływanie junior - senior jest silniejsze
 * chcemy aby ten potencjał młodszego kwitł
 
 *ale starszego też chcemy rozwijać*
@@ -60,28 +66,31 @@ i jeszcze jeden cytat
 
 [NOTE.speaker]
 ====
+* kolejny "_framework_"
 * jak to działa: np Shu - Ha - Ri
-** know the rules - traditional wisdom
-** bend the rules - breaking with tradition
-** be the rules - all moves are natural, becoming one with spirit alone
+** *tu jest junior*:  know the rules - traditional wisdom
+** *tu jest senior*:  bend the rules - breaking with tradition
+** *tu chcemy aby senior był*: be the rules - all moves are natural, becoming one with spirit alone
 
-* *ucząć młodszych, starszy wchodzi na kolejny poziom*
-* starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie
-* dzięki temu czuje się potrzebny
-** co więcej - when one teaches two learn
+{zwsp}
+
+* co więcej - when one teaches two learn
+** *ucząć młodszych, starszy wchodzi na kolejny poziom*
+** starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie +
+czuje się potrzebny
+** wiedza staje się dla niego naturalna
+
 ====
 
 == Nasz gadzi mózg nie chce kary, chce nagrody
 
 [NOTE.speaker]
 ====
+* Wiemy co, nie wiemy jak i dlaczego?
+** Jak _wymusić na starszyźnie_ takie zachowanie?
 * Jeżeli stymulacja kojarzy się pozytywnie (z nagrodą) to nasz mózg naturalnie będzie do tego dążył
 * Modeluj świat do okoła zespołu aby odpowiadał na te potrzeby
-** Status - poczucie istotności dla innych
-** Pewność  / przewidywalność - wiemy co wydarzy się w przyszłości
-** Autonomia - poczucie kontroli i wpływu
-** Przynależność - bezpieczeństwo w kontaktach z innymi
-** Sprawiedliwość - uczciwej relacji pomiędzy ludźmi
+* Oczywiście nie zawsze, miałem kilku opornych zawodników gdzie to nie działało!
 ====
 
 == SCARF framework
@@ -96,11 +105,24 @@ _-- David Rock, 2008_
 ** Status - poczucie istotności dla innych
 ** Pewność  / przewidywalność - wiemy co wydarzy się w przyszłości
 ** Autonomia - poczucie kontroli i wpływu
-** Przynależność - bezpieczeństwo w kontaktach z innymi
+** Przynależność - bezpieczeństwo w kontaktach / relacjach z innymi
 ** Sprawiedliwość - uczciwej relacji pomiędzy ludźmi
+====
 
+== SCARF framework
+
+*Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
+
+_-- David Rock, 2008_
+
+[NOTE.speaker]
+====
+*Status, Pewność  / przewidywalność, Autonomia, Przynależność, Sprawiedliwość*
+
+* zrobić ewaluację na podstawie frameworku skrajnych decyzji
+** student jest po to aby przeklepywać dane z excela
+** to jest senior, super samodzielnie zadania komandosa
 * Łączac starszych i młodszych powodujemy że ta sama decyzja odpowiada na różne potrzeby u różnych osób.
-** Framework staje się komplementarny
 ** Np. Status i Przynależność
 ====
 
@@ -110,5 +132,5 @@ _-- David Rock, 2008_
 [NOTE.speaker]
 ====
 * Jak masz mix zespołu to możesz seniorowi dać niezależność i odpowiedzialność
-** *Trzeba chodować następce*
+** *Trzeba rozwijać / chodować następce*
 ====
