@@ -186,7 +186,7 @@ ____
 
 [NOTE.speaker]
 ====
-* Kuba osobistą wolność ponad pracę na etacie, jeżeli potrzebujecie szkoleń lub wsparcia w projekcie - chętnie z Wami porozmawia.
+* Kuba *ceni* osobistą wolność ponad pracę na etacie, jeżeli potrzebujecie szkoleń lub wsparcia w projekcie - chętnie z Wami porozmawia.
 ====
 
 [data-background-image=images/babisiting_shameless_plug_-_oba.png, data-background-size=cover]
