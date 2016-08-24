@@ -14,7 +14,7 @@ ____
 
 [NOTE.speaker]
 ====
-* *Lider musi dać odczuć swą obecność pracownikowi, który szuka, +
+* *Przełożony musi dać odczuć swą obecność pracownikowi, który szuka, +
 a skryć się przed tym, który znalazł.*
 
 {zwsp}
@@ -113,7 +113,7 @@ _Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ_
 // * Nie ma miejsca na dyskusję, szacunek, zaufanie
 // --
 
-[%notitle, data-background-image=https://media.giphy.com/media/3o85xkg5PK5JLBg796/giphy.gif, data-background-size=cover]
+[%notitle, data-background-image=https://media.giphy.com/media/xWlPqPbrlkEQU/giphy.gif, data-background-size=cover]
 == No dobra... ale co jeżeli...
 
 [NOTE.speaker]
