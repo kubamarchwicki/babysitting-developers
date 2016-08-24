@@ -68,9 +68,9 @@ ____
 [NOTE.speaker]
 ====
 *** wrzucenie swetra do klienta // ostatni garnitur ze ślubu, musileliśmy go przebrać, ale ryzyko się opłaciło bo jak otworzył buzię przed klientem ...
-*** warsztaty z klientem - omówienie lejka sprzedażowego // opowiedzieć w pierwszej osobie
+*** warsztaty z klientem - omówienie lejka sprzedażowego
 *** pokazanie wpływu na konwersję ostatniego releasu
-* *puenta*: chcesz skutecznie skalować zespół -> skupić na stawaniu niezależnym
+* *puenta*: chcesz skutecznie skalować zespół -> skupić się na dążeniu do niezależnego zespołu
 ====
 
 [data-background-image=http://i.giphy.com/nX8qvkaZK2hxe.gif, data-background-size=cover]
