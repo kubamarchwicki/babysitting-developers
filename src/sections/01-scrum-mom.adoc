@@ -57,6 +57,7 @@ a skryć się przed tym, który znalazł.*
 [NOTE.speaker]
 ====
 .Zobaczmy na przykładzie spotkań...
+* *Valve handbook for new employees*
 * Jest wiele różnych sposobów aby wykumać co się dzieje
 ** Lider musi znaleźć sposoby aby wiedzieć *implicite*
 ** tutaj nie ma już niestety miejsca na "bycie _on the top of pyramid_"
