@@ -180,6 +180,14 @@ ____
 [%notitle, data-background-image=http://i.giphy.com/a3IWyhkEC0p32.gif, data-background-size=cover]
 == Koniec!
 
+[data-background-image=images/babisiting_shameless_plug_edited-geecon.png, data-background-size=cover]
+== !
+
+[NOTE.speaker]
+====
+* Jak Bartek wspomniał o Grzesiaku to musi być sprzedaż
+* Obaj po godzinach zajmujemy się TJUG, który zaprasza Was na GeeCona w Sopocie
+====
 
 [data-background-image=images/babisiting_shameless_plug_-_Nordea.png, data-background-size=cover]
 == !
@@ -194,7 +202,8 @@ ____
 
 [NOTE.speaker]
 ====
-* Kuba *ceni* osobistą wolność ponad pracę na etacie, jeżeli potrzebujecie szkoleń lub wsparcia w projekcie - chętnie z Wami porozmawia.
+* Kuba *ceni* osobistą wolność ponad pracę na etacie
+* jeżeli potrzebujecie szkoleń lub wsparcia w projekcie - chętnie z Wami porozmawia.
 ====
 
 [data-background-image=images/babisiting_shameless_plug_-_oba.png, data-background-size=cover]
