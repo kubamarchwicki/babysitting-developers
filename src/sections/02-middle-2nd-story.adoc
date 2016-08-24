@@ -43,7 +43,7 @@ ____
 
 [NOTE.speaker]
 ====
-* decyzja: przejście na scruma
+* decyzja: przejście na agile (silver bullet)
 * ważna zaleta: zaangażowanie zespołu
 ** poprzednio: rozdzielanie tasków, ustalanie priorytetów
 ** trudno się zakochać
@@ -59,6 +59,14 @@ ____
 * więcej odpowiedzialności i niezależności -> traktowanie projektu jak swoje dziecko
 * co zrobić żeby osiągnąć niezależność?
 ** zwalczyć syndrom zawodnika czekającego na kolejne taski -> przybliżenie do klienta
+====
+
+[data-background-image=http://img2.sprzedajemy.pl/540x405_kamizelka-slubna-chattier-52209897.jpg, data-background-size=cover, data-background="#fff"]
+[NOTE.speaker]
+== !
+
+[NOTE.speaker]
+====
 *** warsztaty z klientem - omówienie lejka sprzedażowego // opowiedzieć w pierwszej osobie
 *** pokazanie wpływu na konwersję ostatniego releasu
 *** wrzucenie swetra do klienta // ostatni garnitur ze ślubu, musileliśmy go przebrać, ale ryzyko się opłaciło bo jak otworzył buzię przed klientem ...
@@ -70,5 +78,5 @@ ____
 
 [NOTE.speaker]
 ====
-* *przejście*: innym ze sposobów na niezależny -> mieszanie zespołu
+* *przejście*: konsekwencją uczynienia zespołu niezależnym -> mieszanie zespołu
 ====

@@ -58,12 +58,20 @@ ____
 W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
 ____
 
+[NOTE.speaker]
+====
+*BARTEK*
+
+* a kto to powiedział?
+====
+
 == !
 
 [quote, Maria Montessori]
 ____
 W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
 ____
+
 
 
 [NOTE.speaker]
