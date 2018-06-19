@@ -23,7 +23,7 @@ a skryć się przed tym, który znalazł.*
 ====
 
 
-[%notitle, data-background-image=https://cdn.meme.am/instances/500x/59694709.jpg, data-background-size=cover]
+[%notitle, data-background-image=https://memegenerator.net/img/instances/500x/59694709/i-had-a-scrum-once-it-was-awful.jpg, data-background-size=cover]
 == Tried SCRUM and it was awful
 
 [NOTE.speaker]

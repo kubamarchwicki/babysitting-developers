@@ -27,7 +27,7 @@ ____
 ====
 
 
-[data-background-image=http://kingofwallpapers.com/waterfall/waterfall-008.jpg, data-background-size=cover, data-background="#fff"]
+[data-background-image=https://vignette.wikia.nocookie.net/people-dont-have-to-be-anything-else/images/e/ec/Aysgarth-falls-Autumn-Riv-008.jpg/revision/latest?cb=20141111212441, data-background-size=cover, data-background="#fff"]
 == It all starts with waterfall
 
 [NOTE.speaker]
@@ -61,7 +61,7 @@ ____
 ** zwalczyć syndrom zawodnika czekającego na kolejne taski -> przybliżenie do klienta
 ====
 
-[data-background-image=http://img2.sprzedajemy.pl/540x405_kamizelka-slubna-chattier-52209897.jpg, data-background-size=cover, data-background="#fff"]
+[data-background-image=https://i.imged.pl/kamizelka-slubna-gabriel-roz-60-2-kolory-3200319640.jpg, data-background-size=cover, data-background="#fff"]
 [NOTE.speaker]
 == !
 
