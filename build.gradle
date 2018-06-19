@@ -89,3 +89,7 @@ task generatePdf(type:JavaExec) {
     file("$workingDir/pdf/").mkdirs()
   }
 }
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.4' // gradle 4.x can't build ascidoc/revealjs
+}

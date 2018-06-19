@@ -1,2 +1,2 @@
 #!/bin/bash
-gradle -t asciidoc
+./gradlew -t asciidoc
