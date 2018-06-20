@@ -5,20 +5,31 @@
 *KUBA*
 
 * w karierze każdego z nas przychodzi taki moment
+* zaczynamy czymś lub kimś zarządzać
+** czasem czymś: produkt, stajemy się PO
+** czasem kimś: dostajemy do opieki zespół
 * mniej lub bardziej świadomie zaczynacie zarządzać
-** najczęściej zespołem
-* nikt od tego nie zaczynał
-** i dobrze - albo przynajmniej nie powinien
-
-{zwsp}
-W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifehack
+** z własnej inicjatywy lub nie
+** stajemy przed taką życiową sytuacją
 ====
 
 [%notitle, data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
 == Life hack
 
+[NOTE.speaker]
+====
+W życiu każdego z nas przychodzi taki moment...
+====
+
+
 [data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
 == Life hack
+
+[NOTE.speaker]
+====
+...że potrzebny jest jest lifehack
+====
+
 
 == Life hack
 
@@ -26,10 +37,11 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 ====
 * no więc postanowiliśmy podzielić się kilkoma life-hackami
 * kilka tematów, tipów, spostrzeżeń które nam pomogły
-** gdy przechodziliśmy na ścieżkę nie techniczną
-** ale myślimy że te rzeczy są dość uniwersalne
-** rzeczy które zainspiują
-* zainspirują bo to nie są wzorce, nie są prawdy objawione
+** gdy przechodziliśmy ze ścieżki technicznej na miękką/managerską
+** myślimy że te rzeczy są z jednej strony dość uniwersalne
+** ale to nie jest coś co można przyjść i zaaplikować w swoim kontekście, to tak nie zadziała
+** traktujemy to bardziej jako inspirację
+** to nie są wzorce projektowe ani prawdy objawione
 ====
 
 == To jest Bartek
@@ -52,8 +64,9 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 
 * gada jeszcze więcej
 * mam do Was małą prośbę - pytania na koniec, bo chcemy zachować spójność opowieści
-* przechodzimy z krainy bytecodu do krainy outlooka i excela
-* pytamy HRy o szkolenia dla kogoś, kto przechodzi na miękką ścieżkę
+** jak dojdą przerwania niemaskowane to będzie ciężej
+* przechodzimy z krainy bytecodu do krainy outlooka i excela stoi przed nami wiele wyzwań
+* kiedy one przede mną stały spytałem HRy o szkolenia dla swetra, który przechodzi na miękką ścieżkę
 * wiecie ile ich było? ...
 ====
 
@@ -73,11 +86,14 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 ====
 *KUBA*
 
-* Czasem zaczynaliśmy bez przygotowania, na czuja / ekslopacyjnie
-* wydawało się nam czarną magią, bo go nie rozumieliśmy
-* *po opanowaniu kilku konceptów, które Wam przedstawimy, powinno być łatwiej*
+* Nie mająć szkoleń, znalazłszy się w takiej sytuacji staramy sobie poradzić najlepiej jak umiemy
+* To co próbujemy zrobić to trochę taka czarna magia, działamy na czuja, bez przygotowania, staramy się radzić z sytuacją, która nas zastała najlepiej jak potrafimy
+* będziemy chcieli podzielić się kilkoma koncepcjami, które pomogły nam okiełznać tę czarną magię
+* kilka zaklęć, które potrafią postawić świat w lepszym świetle, *powinno być łatwiej*
+* *To nie jest tylko* prezetnacja dla osób, które dopiero zaczynają
+* Wydaje nam się, że osoby, które zarządzają dłuższy czas też znajdą coś przydatnego dla siebie
+* Znowu, w życiu każdego z nas jest taki moment...
 ====
-
 
 [%notitle, data-background-image=https://media.giphy.com/media/l39713bIWEWDoNMzK/giphy.gif, data-background-size=cover]
 == Koń po Pardubickiej
@@ -86,13 +102,15 @@ W życiu każdego z nas przychodzi taki moment... że potrzebny jest jest lifeha
 ====
 *KUBA*
 
-* Ale z drugiej strony jak masz 10 lat doświadczenia, wcale nie jest łatwiej.
-** Bo dodatkowo dobija Ciebie fakt, iż mimo tego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
-** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
-** że twój master jest coraz bardziej w tyle za głównym branchem
-* Czujecie się jak koń po Pardubickiej Po całym dniu bezsensowych zadań i rzeczy
-** A wrażenie jest takie że nic nie zrobiliśmy przez cały dzień
-** Jedyne na co ma się siłe to kanapa, lampka, szklanka, butelka czerwonego wina i (o ile) książka
+* ...że wracamy z pracy i czujemy się jak koń po wielkiej pardubickiej, albo jeszcze gorzej jak jego dżokej
+* mamy za sobą cały dzień pracy pełen bezsensowych zadań, czasem 10h, czasem Warszawskie 8 czyli od 8 do 8
+* poza tym, że odpowiedzieliśmy na masę maili to mamy wrażenie, że tego dnia nic sensownego się nie wydarzyło i nic nie osiągneliśmy
+** co gorsza to wrażenie dotatkowo pogarsza fakt, że zespół, z którym pracujemy coraz bardziej nam odjeżdża
+*** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
+**** ja wiem, że excel jest reactive, ale to nie to samo cool
+*** że twój master jest coraz bardziej w tyle za developem
+** A na koniec dobija Ciebie fakt, iż mimo dużego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
+** Jedyne co ma się siłe to kanapa, lampka..., szklanka..., a czasami butelka czerwonego wina i jeżeli mamy siły to książka
 ====
 
 
