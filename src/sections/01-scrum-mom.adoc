@@ -96,25 +96,30 @@ _Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ_
 // * Im szybciej to stanie się jasne, tym lepiej
 * ludzie nie lubią autoratywnych managerów
 ** ludzie wolą kogoś z kim można porozmawiać niż `gnoja zza biurka`
-** jak nas nie lubią to od nas odejdą za 500pln do innej firmy
+** jak nas nie lubią to od nas odejdą za 500pln więcej do innej firmy
 *** to oni mają po swojej stronie nadpopyt na rynku pracy, a my wtedy problem
 * a jeżeli spotkanie statusowe nie jest miejscem gdzie wybierasz wpływ to
 * możemy wpływać na ludzi jak nam ufają, jak mają do nas szacunek
+** nie wystarczy, że postanowimy, że zaczniemy zbierać dane w sposób implicite, bo zespoł w cale nie musi chcieć z nami gadać
 ** Nie zrobimy tego poprzez tabelki i przezentacje
-** może trzeba się o nich zatroszczyć? `WAT?`
+** żeby zespoł mi zaufał musi czuć, że ja chcę dla nich coś dobrego i chcę o nich zadbać
+*** może trzeba się o nich zatroszczyć? `WAT?`
 ====
 
 
-== Cebulkowa teoria szczęścia aka. *dobrostan*
+== cebulowy model szczęścia, cebula dobrostanu
+_prof. Janusz Czapiński, 1989_
 
 [NOTE.speaker]
 ====
-* *dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy*
-* czyli: *zadowolenie z poszczególnych dziedzin życia*
-* żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
+* polski psycholog społeczny prof. Janusz Czapiński prowadził badania nad poziomem poczucia szczęścia (ogólny dobrostan subiektywny)
+* można z niej wyciągnąć wniosek, że ludzie mają pewien poziom kiedy są zadowoleni z poszczególnych ich dziedzin życia, w tym zawodowej, ale też dziedzin prywatnych itp
+* nasze zadanie jako liderów, wychodząc poza standardową rolę scrum mamusi, polega na tym, że musimy rozumieć co ich w życiu prywatnym boli, co ich boli w pracy i zaadresować te problemy
+** jak będziemy robić to efektywnie to ludzie zobaczą, że nam zależy, że mogą nam zaufać
+* i jest to pierwszy krok do tego żeby odejsć od spotkań statusowych, a zacząć zdobywać wiedzę w inny sposób
 ** i to jest podstawowe zadanie lidera
 ** a to jest ciężka codzienna praca
-** *a nic tak nie pokazuje zaufania jak kwestia kasy*
+* i jak to można w praktyce zrobić?
 ====
 
 
@@ -123,14 +128,21 @@ _Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ_
 
 [NOTE.speaker]
 ====
-* zasada wzajemności
-* możecie być z ich świata
-* mi było łatwo - potrafilem wciąż rozwiązać większość problemów technicznych
-** ale to ogranicza, bo nie uczyłem się rozwiązywać problemów nietechnicznych wystarczająco sprawnie
-* albo lepiej - pokazać się że ten świat Was interesuje
-** że ich świat jest interesujący i *ufacie że to ONI są specjalistami*
-* *a nic tak nie pokazuje zaufania jak kwestia kasy*
-* *czy poważnie muszę kontrolować urlopy?* - czy ludzie sami mogą to kontrolować?
+* jeżeli zarządzacie jakimś projektem lub zespołem to wcześniej czy później pewne rzeczy rozbijają się o kasę, wszystko zawsze rozbija się o kasę
+** *a nic tak nie pokazuje zaufania jak kwestia kasy*
+* jeżeli z każdym wydatkiem musicie iść do przełożonego i prosić o akceptację niezależnie od jego kwoty to jest to sygnał, że ktoś komuś nie ufa
+* co mi do tego jako liderowi, że ktoś chce kupić klawiaturę, albo książkę z amazona za 300pln
+** jeżeli on uważa, że jest to dobrze wydana kasa to prawdopodobnie tak jest
+** a zastanawiając się nad tym to 300pln np. co miesiąc w budżecie zespołu programistycznego to kropla w morzu
+** to jest pierwszy punkt, w którym możemy zobaczyć, że zaufanie idzie w obie strony
+** i w zespole Kuby po ustaleniu progu wydatku, którego nie trzeba u niego akceptować nie miał problemów, że ludzie kupowali świerszczyki, tylko rzeczywiście książki, których potrzebowali
+* jeżeli powiecie, że w waszej organizacji nie możecie wprowadzić takiej zmiany, to inną okazją do tego są urlopy
+** po co chodzić z akceptacją wniosków urlopowych?
+** nie lepiej powiedzieć: słuchaj, to Ty wiesz najlepiej czy możesz iśc na urlop?
+*** jeżeli sytuacja na to pozwala, to co mi do tego czy Ty chcesz iść na urlop
+*** nie jestem Twoją mamusią, jesteś odpowiedzialnym człowiekiem
+*** a jeżeli nie możesz, a chciałbyś wziąć urlop, to porozmawiajmy co trzeba zrobić żebyś mógł go wziąć
+* działa tutaj zasada wzajemności
 ====
 
 // ==  Służenie innym to priorytet numer jeden
