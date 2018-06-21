@@ -1,6 +1,6 @@
 == Historia druga
 
-// _Kino OFFowe_
+_Kino OFFowe_
 
 [NOTE.speaker]
 ====

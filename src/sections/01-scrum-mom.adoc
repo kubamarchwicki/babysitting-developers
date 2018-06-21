@@ -1,6 +1,14 @@
 == Historia pierwsza
 
-// _Przepraszam, czy tu biją?_
+_Przepraszam, czy tu biją?_
+
+[NOTE.speaker]
+====
+* mamy dla Was 4 historie
+* opowieści z naszego doświadczenia, z którymi mamy nadzieję, łatwo będzie się utorzsamić
+* każdą z historii zaczynamy cytatem ze wspomnianej literatury fachowej
+* historia pierwsza
+====
 
 
 [%notitle]
@@ -19,7 +27,7 @@ a skryć się przed tym, który znalazł.*
 
 {zwsp}
 
-* ale skoro mamy zacząć od początku - to jakoś tak zawsze zaczyna się od scruma
+* i odnieśmy teraz ten cytat do naszej codziennej pracy
 ====
 
 
@@ -28,11 +36,15 @@ a skryć się przed tym, który znalazł.*
 
 [NOTE.speaker]
 ====
-* Spokojnie, robiliśmy i SCRUMa
-* od tego zaczniemy - chociaż nie będziemy mówić o Scrumie
-* Zaczyna się z reguły od organizacji daily (i dalej np chcemy kodować)
-** To błąd bo wchodzimy na inne terytorium
-** SCRUM Master ma development levels
+* często przygoda z zarządzaniem zaczyna się od pytania: ogarnąłbyś dzisiaj daily?
+* Spokojnie, my też robiliśmy SCRUMa, było okropnie
+** od tego zaczniemy - chociaż nie będziemy mówić tylko o Scrumie
+* Wykazaliśmy się przy organizacji pierwszego daily, także pada nastepne pytanie: czy nie chciałbyś zacząć organizować daily?
+* a my nie chcemy przestać kodować
+** chcemy organizować to daily z doskoku, bo wiadomo, że programiści mają najfajniejsze zabawki
+** jeżeli ktoś się z tym nie zgadza to wierzę, że na pewno ma jakieś inne zalety
+* I to traktowanie organizacji daily z doskoku to błąd, bo wchodzimy na inne terytorium
+* SCRUM Master ma swoje poziomy rozwoju (development levels)
 ====
 
 [%notitle, data-background-image=images/developing-scrum-masters-39-728.jpg, data-background-size=contain, data-background="#fff", data-background-repeat=no-repeat]

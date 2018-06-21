@@ -9,8 +9,8 @@
 ** czasem czymś: produkt, stajemy się PO
 ** czasem kimś: dostajemy do opieki zespół
 * mniej lub bardziej świadomie zaczynacie zarządzać
-** z własnej inicjatywy lub nie
-** stajemy przed taką życiową sytuacją
+* z własnej inicjatywy lub nie
+* stojąc przed taką życiową sytuacją
 ====
 
 [%notitle, data-background-image=https://media.giphy.com/media/MqRtijz2xdEvS/giphy.gif, data-background-size=cover]
@@ -108,7 +108,7 @@ W życiu każdego z nas przychodzi taki moment...
 ** co gorsza to wrażenie dotatkowo pogarsza fakt, że zespół, z którym pracujemy coraz bardziej nam odjeżdża
 *** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
 **** ja wiem, że excel jest reactive, ale to nie to samo cool
-*** że twój master jest coraz bardziej w tyle za developem
+*** martwimy się, że twój master jest coraz bardziej w tyle za developem
 ** A na koniec dobija Ciebie fakt, iż mimo dużego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
 ** Jedyne co ma się siłe to kanapa, lampka..., szklanka..., a czasami butelka czerwonego wina i jeżeli mamy siły to książka
 ====
@@ -123,7 +123,7 @@ W życiu każdego z nas przychodzi taki moment...
 
 * Dlaczego ktoś m przyjść posłuchać dwóch Minionków?
 * Żeby nie było za bardzo subiektywnie do naszych doświadczeń znaleźliśmy predykaty z literatury fachowej.
-* Nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców.
+* Ale chciałbym, żebyśmy pamiętali, że nie ma też co się zachłysnąć zaweaulowalną literaturą i badaniami amerykańskich naukowców.
 ** Papier przyjmie wszystko, często przedstawia najprostrze przykłady i pomija porażki.
 ** Prawdziwa nauka odbywa się na placu boju.
 ====
