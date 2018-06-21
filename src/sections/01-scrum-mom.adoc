@@ -54,13 +54,26 @@ a skryć się przed tym, który znalazł.*
 ====
 * Scrum Master - jak wszystko ma swoje maturity model
 
-.Stages of becoming a leader
-* Szybko się orientujemy
-* nie chcemy mikrozarządzać, nie mamy na to czasu. Wiemy / czujemy że to nie tak
-* bardzo szybko odchodzimy od pierwszego stadium. `The Scrum Dude`
-** *nie po to studiowałeś 5 lat infomatykę aby teraz robić za sekretarkę*
-* nie jesteśmy arogandzkim typkiem zza biurka, ktoś coś powiedział o liderze... tylko jak zacząć? *mieć szacunek, zaufnie. Ale jak?*
-* Posłużmy się przykładem - skąd brać informacje o projekcie i obecnym stanie rzeczy?
+// .Stages of becoming a leader
+* Od czegoś trzeba zacząć i jest to zazwyczaj odpytka na daily
+** wczoraj, dzisiaj, czy coś przeszkadza im w osiągnięciu celu sprintu
+** odpytka jest mechaniczna, z tyłu głowy kompilujemy i przerywa nam to pracę
+* Szybko się orientujemy, że to odpytka to nie jest to co chcielibyśmy robić.
+* Odkrywamy, że nie różni się to dużo od mikrozarządzania, nie mamy na to czasu. Wiemy / czujemy że to nie tak
+** To co chcielibyśmy robić to pomóc zespołowi, rozwiązać ich jakieś problemy, usunąć ich jakieś przeszkody
+** *nie po to studiowałeś 5 lat infomatykę aby teraz robić za sekretarkę*, prawda?
+* bardzo szybko chcemy odejść od pierwszego stadium. `The Scrum Dude/Scrum Guy`
+** stajemy przed straszną sytuacją, bo połowa zespołu nas nienawidzi, a połowa nam współczuje....nie wiemy która połowa jest która.
+* chcemy awansować na kolejny poziom czyli `Scrumowa Mamusia`
+** nie rób tego, rób to, nie wchodz na krzesło, nie wchodz na stół, bo spadniesz. *`Mamusia` pozmywa* x2
+* Szybko się orientujemy, że to droga do nikąd, my mamy coraz więcej pracy, coraz mniej kodujemy, a zespół jest coraz bardziej dziecinny
+** chcieliśmy dobrze, a wyszło jak zawsze
+* nie chcemy być arogandzkim typkiem zza biurka `Pointy-haired Boss`, ktoś coś powiedział o liderze... tylko jak zacząć? *mieć szacunek, zaufnie. Ale jak?*
+* Posłużmy się przykładem - skąd brać informacje o projekcie i obecnym stanie rzeczy w inny sposób?
+** nie ma większego antywzorca niż PM, który totalnie nie ogarnia postępu projektu i przesuwa sobie codziennie suwaczek postępu o 1/128 w excelku
+** co robi początkujący lider, który napotka problem? organizuje spotkanie
+*** ale jest to jeden z gorzszych sposobów na dowiedzenie się jak idzie w projekcie
+*** na szczęście tych sposobów jest więcej
 ====
 
 [%notitle, data-background-image=images/methods-to-find-out-whats-going-on-415x557.png, data-background-size=contain, data-background-repeat=no-repeat, data-background="#EAE8DF"]
@@ -68,10 +81,9 @@ a skryć się przed tym, który znalazł.*
 
 [NOTE.speaker]
 ====
-.Zobaczmy na przykładzie spotkań...
 * *Valve handbook for new employees*
-* Jest wiele różnych sposobów aby wykumać co się dzieje
 ** Lider musi znaleźć sposoby aby wiedzieć *implicite*
+*** nie odpytuje, rozmawia z ludzmi, wie co się dzieje, czuje co się w projekcie dzieje
 ** tutaj nie ma już niestety miejsca na "bycie _on the top of pyramid_"
 ====
 
@@ -81,18 +93,30 @@ _Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ_
 
 [NOTE.speaker]
 ====
-* Im szybciej to stanie się jasne, tym lepiej
-** od autorytarnego managera ludzie odejdą bardzo szybko
-* A wpływać mogą jak mi ufają, jak mają szacunek
-** jak się ze mną liczą
-** Jak to zrobić
-** Nie poprzez tabelki i przezentacje
-
-{zwsp}
-
-* a może tak by ludzie zaufali?
-
+// * Im szybciej to stanie się jasne, tym lepiej
+* ludzie nie lubią autoratywnych managerów
+** ludzie wolą kogoś z kim można porozmawiać niż `gnoja zza biurka`
+** jak nas nie lubią to od nas odejdą za 500pln do innej firmy
+*** to oni mają po swojej stronie nadpopyt na rynku pracy, a my wtedy problem
+* a jeżeli spotkanie statusowe nie jest miejscem gdzie wybierasz wpływ to
+* możemy wpływać na ludzi jak nam ufają, jak mają do nas szacunek
+** Nie zrobimy tego poprzez tabelki i przezentacje
+** może trzeba się o nich zatroszczyć? `WAT?`
 ====
+
+
+== Cebulkowa teoria szczęścia aka. *dobrostan*
+
+[NOTE.speaker]
+====
+* *dbam o ich dobrostan, rozwijam ich - a nie kumuluję władzę na szczycie piramidy*
+* czyli: *zadowolenie z poszczególnych dziedzin życia*
+* żeby móc z pracować na takim poziomie z ludźmi to trzeba zdobyć ich zafanie
+** i to jest podstawowe zadanie lidera
+** a to jest ciężka codzienna praca
+** *a nic tak nie pokazuje zaufania jak kwestia kasy*
+====
+
 
 [data-background-image=images/trust_me_engineer.png, data-background-size=cover]
 == Trust me! I'm engineer
