@@ -14,6 +14,13 @@ ____
 Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.
 ____
 
+[NOTE.speaker]
+====
+Rolą managera  jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju.
+====
+
+
+
 [data-background-image=http://www.indiewire.com/wp-content/uploads/2015/05/independence-day-image.jpg, data-background-size=contain, data-background-repeat=no-repeat]
 == Independence? Why?
 

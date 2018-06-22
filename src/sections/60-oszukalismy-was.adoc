@@ -45,6 +45,14 @@ ____
 a skryć się przed tym, które znalazło.
 ____
 
+
+[NOTE.speaker]
+====
+*Wychowawca* musi dać odczuć swą obecność *dziecku*, które szuka, +
+a skryć się przed tym, które znalazło.
+====
+
+
 == !
 
 [quote, ??]
@@ -70,6 +78,7 @@ ____
 ====
 *BARTEK*
 
+* W obrębie przygotowanego otoczenia *dziecko* wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
 * a kto to powiedział?
 ====
 
@@ -102,11 +111,11 @@ ____
 ====
 *KUBA*
 
-Metoda Montessori
+* Metoda Montessori
 * Domy dziecęce z 1906: Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci
 ** Założyła że rodzimy się pełni pomysłów, zaangażowania, skupienia i kreatywności.
 ** niestety, od pierwszych chwil życia wchodzimy w utarte schematy wychowawcze i nie rozwijamy w pełni swojego potencjału
-* Opisała ona rozwój dziecka poprzez fazy frażliwe
+* Opisała ona rozwój dziecka poprzez przechodzenia przez fazy wrażliwe
 * w pewnych okresach rozwoju naturalne jest zainteresowane czymś (np. pisanie, czytanie, liczenie)
 * Może to być jakiś temat/zagadnienie, chęć nabycia określonych umiejętności
 ** To okno musi zauważyć nauczyciel i wykorzystać
@@ -136,7 +145,7 @@ ____
 [NOTE.speaker]
 ====
 * przytoczę szerszy fragment
-Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.” “Nauczyciel (...) powinien być dostępny dla dziecka, by w razie potrzeby pomóc mu czy zachęcić do działania. Takie podejście pomaga dziecku w rozwoju poczucia pewności siebie i wewnętrznej dyscypliny.” “Największymi talentami nauczyciela czy rodzica jest umiejętność obserwowania oraz wiedza kiedy i jak zainterweniować".
+*Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.” “Nauczyciel (...) powinien być dostępny dla dziecka, by w razie potrzeby pomóc mu, czy zachęcić do działania. Takie podejście pomaga dziecku w rozwoju poczucia pewności siebie i wewnętrznej dyscypliny.” “Największymi talentami nauczyciela czy rodzica jest umiejętność obserwowania oraz wiedza kiedy i jak zainterweniować".
 * nie wiem jak dla Was, ale dle mnie to jest jak w mordę strzelił definicja samoroganizujących się zespołów w scrumie, scrum mastera i servant leadershipu
 
 * Dziecko w fazie wrażliwej pozbawione możliwości zaspokojenia swojej potrzeby poznawczej, jest głęboko sfrustrowane i przez to rozdrażnione, płaczliwe, „nieznośne.”

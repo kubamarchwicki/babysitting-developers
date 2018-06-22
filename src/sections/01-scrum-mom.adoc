@@ -68,7 +68,8 @@ a skryć się przed tym, który znalazł.*
 ** nie rób tego, rób to, nie wchodz na krzesło, nie wchodz na stół, bo spadniesz. *`Mamusia` pozmywa* x2
 * Szybko się orientujemy, że to droga do nikąd, my mamy coraz więcej pracy, coraz mniej kodujemy, a zespół jest coraz bardziej dziecinny
 ** chcieliśmy dobrze, a wyszło jak zawsze
-* nie chcemy być arogandzkim typkiem zza biurka `Pointy-haired Boss`, ktoś coś powiedział o liderze... tylko jak zacząć? *mieć szacunek, zaufnie. Ale jak?*
+* nie chcemy być arogandzkim typkiem zza biurka `Pointy-haired Boss`
+* ktoś coś powiedział o liderze... tylko jak zacząć? *mieć szacunek, zaufnie. Ale jak?*
 * Posłużmy się przykładem - skąd brać informacje o projekcie i obecnym stanie rzeczy w inny sposób?
 ** nie ma większego antywzorca niż PM, który totalnie nie ogarnia postępu projektu i przesuwa sobie codziennie suwaczek postępu o 1/128 w excelku
 ** co robi początkujący lider, który napotka problem? organizuje spotkanie
@@ -98,7 +99,7 @@ _Spotkanie statusowe nie jest miejscem gdzie wywierasz wpływ_
 ** ludzie wolą kogoś z kim można porozmawiać niż `gnoja zza biurka`
 ** jak nas nie lubią to od nas odejdą za 500pln więcej do innej firmy
 *** to oni mają po swojej stronie nadpopyt na rynku pracy, a my wtedy problem
-* a jeżeli spotkanie statusowe nie jest miejscem gdzie wybierasz wpływ to
+* a jeżeli spotkanie statusowe nie ma być miejscem gdzie wywierasz wpływ, to wtedy gdzie i jak?
 * możemy wpływać na ludzi jak nam ufają, jak mają do nas szacunek
 ** nie wystarczy, że postanowimy, że zaczniemy zbierać dane w sposób implicite, bo zespoł w cale nie musi chcieć z nami gadać
 ** Nie zrobimy tego poprzez tabelki i przezentacje
@@ -134,7 +135,7 @@ _prof. Janusz Czapiński, 1989_
 * co mi do tego jako liderowi, że ktoś chce kupić klawiaturę, albo książkę z amazona za 300pln
 ** jeżeli on uważa, że jest to dobrze wydana kasa to prawdopodobnie tak jest
 ** a zastanawiając się nad tym to 300pln np. co miesiąc w budżecie zespołu programistycznego to kropla w morzu
-** to jest pierwszy punkt, w którym możemy zobaczyć, że zaufanie idzie w obie strony
+** to jest pierwszy punkt, w którym możemy pokazać, że zaufanie idzie w obie strony
 ** i w zespole Kuby po ustaleniu progu wydatku, którego nie trzeba u niego akceptować nie miał problemów, że ludzie kupowali świerszczyki, tylko rzeczywiście książki, których potrzebowali
 * jeżeli powiecie, że w waszej organizacji nie możecie wprowadzić takiej zmiany, to inną okazją do tego są urlopy
 ** po co chodzić z akceptacją wniosków urlopowych?

@@ -39,7 +39,7 @@ W życiu każdego z nas przychodzi taki moment...
 * kilka tematów, tipów, spostrzeżeń które nam pomogły
 ** gdy przechodziliśmy ze ścieżki technicznej na miękką/managerską
 ** myślimy że te rzeczy są z jednej strony dość uniwersalne
-** ale to nie jest coś co można przyjść i zaaplikować w swoim kontekście, to tak nie zadziała
+** ale to nie jest coś co wziąć i zaaplikować w swoim kontekście, to tak nie zadziała
 ** traktujemy to bardziej jako inspirację
 ** to nie są wzorce projektowe ani prawdy objawione
 ====
@@ -107,7 +107,7 @@ W życiu każdego z nas przychodzi taki moment...
 * poza tym, że odpowiedzieliśmy na masę maili to mamy wrażenie, że tego dnia nic sensownego się nie wydarzyło i nic nie osiągneliśmy
 ** co gorsza to wrażenie dotatkowo pogarsza fakt, że zespół, z którym pracujemy coraz bardziej nam odjeżdża
 *** że implicte types Twojego zespołu coraz bardziej rozjeżdzają się z Twomi tabelami przestawnymi
-**** ja wiem, że excel jest reactive, ale to nie to samo cool
+**** ja wiem, że excel jest reactive, ale to nie tak samo hipsterskie
 *** martwimy się, że twój master jest coraz bardziej w tyle za developem
 ** A na koniec dobija Ciebie fakt, iż mimo dużego bagażu doświadczeń co chwilę coś idzie inaczej niż zaplanowałeś/coś Ciebie zaskakuje.
 ** Jedyne co ma się siłe to kanapa, lampka..., szklanka..., a czasami butelka czerwonego wina i jeżeli mamy siły to książka

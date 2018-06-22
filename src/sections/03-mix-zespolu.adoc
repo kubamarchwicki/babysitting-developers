@@ -24,11 +24,11 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 ====
 * wymieszanie zespołu, czyli wymieszanie wieku, doświadczenia w jednym tyglu i zobaczenia co nam z tego wyjdzie
 * nasz świat nie jest jednorodny
-* chcemy aby zespół działał do celu i stawał się niezależnym
+* chcemy aby zespół dążył do celu i stawał się niezależnym
 ** naturalnym dla nas jest że nie może być to zespół samych juniorów
 *** niedość, że robiliby to zapewne źle, to jeszcze nie to co potrzeba
 ** zespół złożony z samych seniorów to też zły pomysł
-** oni są zblazowani, wszystko już widzieli i wiedzą że to się nie da, albo kolejny CRUD jest poniżej ich godności
+*** oni są zblazowani, wszystko już widzieli i wiedzą że to się nie da, albo kolejny CRUD jest poniżej ich godności
 ====
 
 == Stan równowagi a nie stan równości
@@ -43,7 +43,7 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 * seniorzy mają wiedzę i doświadczenie
 ** widzieli w życiu niejedno i wiedzą jak dojść do pewnych celów
 ** co oczywiście też pozytywnie wpływa to na produktywność zespołu
-* każdy z nas widział jak junior zrobił coś bo nie wiedział że się nie da
+* każdy z nas widział jak junior zrobił coś trudnego, bo nie wiedział że się nie da
 * ale z drugiej strony każdy z nas widział jak senior - jednym rzutem oka rozwiązywał problemy na którymi młodzież ślęczała dość długo
 ** tu masz źle, tego nie ma w dokumentacji, ja wiem, że błąd jest w frameworku, musisz ustawić tę flagę i nagle wszystko zaczyna działać
 ** on tam był, on to widział, wchodził do jaskini i widział te gnomy potem wyszedł i poprawił
@@ -62,10 +62,10 @@ _Potencjał pracownika jest to dystans między poziomem aktualnego rozwoju, okre
 * każdy z nas ma potencjał, tzw. strefę najbliższego rozwoju
 ** strefę gdzie bardzo szybko jest w stanie się rozwinąć pod kierunkiem kogoś doświadczonego
 * psychologia uczenia mówi, że im dystans pomiędzy ludzmni jest mniejszy, im kontekst, w którym pracują jest bliższy
-** tym łatwiej wypełnić tą lukę, strefę najbliższego rozwoju, wiedzą
+** I im jest bliższy tym łatwiej wypełnić tą lukę, czyli strefę najbliższego rozwoju, wiedzą
 ** psychologia nazywa to *dystansem intelektualnym*
-** pomiędzy nauczycielem a uczniem, juniorem a seniorem jest mniejszy
-*** powiedzmy, że różnica wynosi jeden kontekst to nauka idzie sprawniej
+** który pomiędzy nauczycielem a uczniem, juniorem a seniorem jest mniejszy
+*** powiedzmy, że kiedy różnica wynosi jeden kontekst to nauka idzie sprawniej
 ** niż pomiędzy juniorem a przełożonym
 *** dystans do przełożonego jest dużo większy, on myśli w zupełnie innych kategoriach
 *** i przez to niektóre rzeczy robi się trudniej

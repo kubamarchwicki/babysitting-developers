@@ -13,6 +13,11 @@ ____
 W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności.
 ____
 
+[NOTE.speaker]
+====
+W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności.
+====
+
 
 [data-background-image=https://ferndalecareercenter.files.wordpress.com/2013/03/experience.jpg, data-background-size=cover, data-background="#fff"]
 == Gaining experience
@@ -45,9 +50,9 @@ ____
 ====
 * decyzja: przejście na agile (silver bullet)
 * ważna zaleta: zaangażowanie zespołu
-** poprzednio: rozdzielanie tasków, ustalanie priorytetów
+** poprzednio: external dependency na rozdzielanie tasków, ustalanie priorytetów
 ** trudno się zakochać
-* duże wyzwanie: uzyskanie niezależności szybko (przyzwyczajenia)
+* duże wyzwanie: uzyskanie niezależności - stare przyzwyczajenia były inne
 ** odpowiedzialność zespołu: estymacja, rozdzielenie story, priorytety, cel sprintu, cel biznesowy
 ====
 
