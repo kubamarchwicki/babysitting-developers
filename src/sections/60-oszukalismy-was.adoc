@@ -9,17 +9,25 @@
 ** A najczęstszą formą feedback jest wpierdol?
 ** Nie czytamy tych książek
 * No nie czytamy?
+* ja nawet wiem dlaczego
 * Musimy się Wam do czegoś przyznać
 ====
 
 [data-background-image=http://i.giphy.com/2FN16ohypI5A4.gif, data-background-size=cover]
 == Okłamaliśmy Was!
 
+[NOTE.speaker]
+====
+* okłamaliśmy Was
+====
+
+
+
 == !
 
 [quote, ??]
 ____
-Przełożony musi dać odczuć swą obecność pracownikowi, który szuka, +
+*Przełożony* musi dać odczuć swą obecność *pracownikowi*, który szuka, +
 a skryć się przed tym, który znalazł.
 ____
 
@@ -33,7 +41,7 @@ ____
 
 [quote, ??]
 ____
-Wychowawca musi dać odczuć swą obecność dziecku, które szuka, +
+*Wychowawca* musi dać odczuć swą obecność *dziecku*, które szuka, +
 a skryć się przed tym, które znalazło.
 ____
 
@@ -41,7 +49,7 @@ ____
 
 [quote, ??]
 ____
-W obrębie przygotowanego środowiska pracownik wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności
+W obrębie przygotowanego środowiska *pracownik* wybiera sobie zadania i sam ustala tempo i czas ich wykonania się oraz stopień ich trudności
 ____
 
 [NOTE.speaker]
@@ -55,7 +63,7 @@ A to tak naprawdę jest taki cytat
 
 [quote, ??]
 ____
-W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
+W obrębie przygotowanego otoczenia *dziecko* wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
 ____
 
 [NOTE.speaker]
@@ -69,7 +77,7 @@ ____
 
 [quote, Maria Montessori]
 ____
-W obrębie przygotowanego otoczenia dziecko wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
+W obrębie przygotowanego otoczenia *dziecko* wybiera sobie przedmiot działań i samo ustala tempo i czas uczenia się oraz stopień trudności.
 ____
 
 
@@ -95,20 +103,11 @@ ____
 *KUBA*
 
 Metoda Montessori
-
-* Nazwana na twórczynią - z 1906 roku
-* Opisała ona rozwój dziecka poprzez fazy frażliwe
+* Domy dziecęce z 1906: Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci
 ** Założyła że rodzimy się pełni pomysłów, zaangażowania, skupienia i kreatywności.
 ** niestety, od pierwszych chwil życia wchodzimy w utarte schematy wychowawcze i nie rozwijamy w pełni swojego potencjału
-====
-
-== Domy dziecięce
-
-*Metoda pedagogii naukowej stosowana w wychowaniu najmłodszych dzieci*
-
-[NOTE.speaker]
-====
-* w pewnych okresach rozwoju naturalne jest zainteresowane czymś
+* Opisała ona rozwój dziecka poprzez fazy frażliwe
+* w pewnych okresach rozwoju naturalne jest zainteresowane czymś (np. pisanie, czytanie, liczenie)
 * Może to być jakiś temat/zagadnienie, chęć nabycia określonych umiejętności
 ** To okno musi zauważyć nauczyciel i wykorzystać
 ** Bo jak okno się zamknię to już drugi raz się nie otworzy
@@ -118,7 +117,7 @@ Metoda Montessori
 
 [quote]
 ____
-“Rolą managera jest obserwowanie pracownika, a jego ciągłym celem jest coraz rzadsza interwencja w miarę jego rozwoju”.
+“Rolą *managera* jest obserwowanie *pracownika*, a jego ciągłym celem jest coraz rzadsza interwencja w miarę *jego* rozwoju”.
 ____
 
 [NOTE.speaker]
@@ -131,28 +130,18 @@ ____
 
 [quote]
 ____
-Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.”
+Rolą *nauczyciela czy rodzica*  jest obserwowanie *dziecka*, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju *dziecka*.”
 ____
 
 [NOTE.speaker]
 ====
+* przytoczę szerszy fragment
 Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.” “Nauczyciel (...) powinien być dostępny dla dziecka, by w razie potrzeby pomóc mu czy zachęcić do działania. Takie podejście pomaga dziecku w rozwoju poczucia pewności siebie i wewnętrznej dyscypliny.” “Największymi talentami nauczyciela czy rodzica jest umiejętność obserwowania oraz wiedza kiedy i jak zainterweniować".
-====
-
-
-== !
-
-[quote]
-____
-Rolą nauczyciela czy rodzica  jest obserwowanie dziecka, a jego ciągłym celem jest coraz rzadsza interwencja w miarę rozwoju dziecka.”
-____
-
-[NOTE.speaker]
-====
-*KUBA*
-
+* nie wiem jak dla Was, ale dle mnie to jest jak w mordę strzelił definicja samoroganizujących się zespołów w scrumie, scrum mastera i servant leadershipu
 
 * Dziecko w fazie wrażliwej pozbawione możliwości zaspokojenia swojej potrzeby poznawczej, jest głęboko sfrustrowane i przez to rozdrażnione, płaczliwe, „nieznośne.”
+** *brzmi znajomo*?
+** brzmi zupełnie jak programiści
 
 {zwsp}
 
@@ -180,20 +169,19 @@ ____
 [%notitle, data-background-image=http://i.giphy.com/a3IWyhkEC0p32.gif, data-background-size=cover]
 == Koniec!
 
-[data-background-image=images/babisiting_shameless_plug_edited-geecon.png, data-background-size=cover]
-== !
-
 [NOTE.speaker]
 ====
-* Jak Bartek wspomniał o Grzesiaku to musi być sprzedaż
-* Obaj po godzinach zajmujemy się TJUG, który zaprasza Was na GeeCona w Sopocie
+* ...zaleciało trochę Grzesiakiem, ale z tą myślą chcielibyśmy Was dzisiaj zostawić
+* byliście najlepszą publicznością jaką dzisiaj miałem
 ====
+
 
 [data-background-image=images/babisiting_shameless_plug_-_Nordea.png, data-background-size=cover]
 == !
 
 [NOTE.speaker]
 ====
+* Jak Bartek wspomniał o Grzesiaku to musi być sprzedaż
 * Bartek szuka programistów i devopsów
 ====
 
