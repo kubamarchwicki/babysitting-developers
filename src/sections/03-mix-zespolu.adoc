@@ -22,23 +22,31 @@ Dziecko i dorosły to dwie różne części ludzkości, które nawzajem wpływaj
 
 [NOTE.speaker]
 ====
+* wymieszanie zespołu, czyli wymieszanie wieku, doświadczenia w jednym tyglu i zobaczenia co nam z tego wyjdzie
+* nasz świat nie jest jednorodny
 * chcemy aby zespół działał do celu i stawał się niezależnym
 ** naturalnym dla nas jest że nie może być to zespół samych juniorów
-** nie mogą to być samo zblazowani seniorzy, którzy wszystko już widzieli i wiedzą że to się nie da
+*** niedość, że robiliby to zapewne źle, to jeszcze nie to co potrzeba
+** zespół złożony z samych seniorów to też zły pomysł
+** oni są zblazowani, wszystko już widzieli i wiedzą że to się nie da, albo kolejny CRUD jest poniżej ich godności
 ====
 
 == Stan równowagi a nie stan równości
 
 [NOTE.speaker]
 ====
-* młodzi mają więcej entuzjazmu - co wpływa naproduktywność
-* wydajacze mają wiedzę i doświadczenie - co wpływa na produktywność
+* to co my potrzebujemy to nie jest stan *równości*, tylko *równowagi*
+* młodzi mają więcej entuzjazmu
+** hormony buzują
+** pozytywnie wpływa to na produktywność zespołu
+** oni chcą coś zrobić, ale często brakuje im wiedzy, doświadczenia, żeby zrobić to dobrze, żeby zrobić to co jest potrzebne
+* seniorzy mają wiedzę i doświadczenie
+** widzieli w życiu niejedno i wiedzą jak dojść do pewnych celów
+** co oczywiście też pozytywnie wpływa to na produktywność zespołu
 * każdy z nas widział jak junior zrobił coś bo nie wiedział że się nie da
-* każdy z nas widział jak senior - jednym rzutem oka rozwiązywał problemy na którymi młodzież ślęczała dość długo
-** on tam po prostu był.. i to widział
-
-{zwsp}
-
+* ale z drugiej strony każdy z nas widział jak senior - jednym rzutem oka rozwiązywał problemy na którymi młodzież ślęczała dość długo
+** tu masz źle, tego nie ma w dokumentacji, ja wiem, że błąd jest w frameworku, musisz ustawić tę flagę i nagle wszystko zaczyna działać
+** on tam był, on to widział, wchodził do jaskini i widział te gnomy potem wyszedł i poprawił
 * jasna sprawa, ale *z czego to wynika?*
 ====
 
@@ -49,49 +57,58 @@ Potencjał pracownika jest to dystans między poziomem aktualnego rozwoju, okre�
 
 [NOTE.speaker]
 ====
-i jeszcze jeden cytat
+_Potencjał pracownika jest to dystans między poziomem aktualnego rozwoju, określanym na podstawie umiejętności samodzielnego rozwiązywania problemów, a potencjalnym poziomem rozwoju, określanym na podstawie umiejętności rozwiązywania problemów pod kierunkiem doświadcznego pracownika._
 
-* psychologia mówimy o tym -  *dystans intelektualny*
+* każdy z nas ma potencjał, tzw. strefę najbliższego rozwoju
+** strefę gdzie bardzo szybko jest w stanie się rozwinąć pod kierunkiem kogoś doświadczonego
+* psychologia uczenia mówi, że im dystans pomiędzy ludzmni jest mniejszy, im kontekst, w którym pracują jest bliższy
+** tym łatwiej wypełnić tą lukę, strefę najbliższego rozwoju, wiedzą
+** psychologia nazywa to *dystansem intelektualnym*
 ** pomiędzy nauczycielem a uczniem, juniorem a seniorem jest mniejszy
+*** powiedzmy, że różnica wynosi jeden kontekst to nauka idzie sprawniej
 ** niż pomiędzy juniorem a przełożonym
-** przełożony fruwa gdzieś tam
-** *mi ktoś kiedyś powiedział że muszę dobierać słowa, bo pracwnicy inaczej je rozumieją niż to co ja mam na myśli*
-* oddziaływanie junior - senior jest silniejsze
-* chcemy aby ten potencjał młodszego kwitł
-
-*ale starszego też chcemy rozwijać*
+*** dystans do przełożonego jest dużo większy, on myśli w zupełnie innych kategoriach
+*** i przez to niektóre rzeczy robi się trudniej
+** chcemy, żeby juniorzy się rozwijali, żebyśmy w ogłoszeniach mogli pisać, że jesteśmy młodą, dynamicznie rozwijającą się firmą
+*** ale też z drugiej strony nie chcemy, żeby seniorzy tylko uczyli, bo jakby tak było, to zostaliby na uczelni
+//** *mi ktoś kiedyś powiedział że muszę dobierać słowa, bo pracwnicy inaczej je rozumieją niż to co ja mam na myśli*
+//* oddziaływanie junior - senior jest silniejsze
 ====
 
 == 守破離
 
 [NOTE.speaker]
 ====
-* kolejny "_framework_"
-* jak to działa: np Shu - Ha - Ri
+* ten framework pochodzi z aikido, trzy poziomy zrozumienia reguł/zdobywania wiedzy
+* Shu - Ha - Ri
 ** *tu jest junior*:  know the rules - traditional wisdom
+*** traktujemy reguły dość dogmatycznie, wiemy, że istnieją, nie bardzo się zastanawiamy z czego wynikają
 ** *tu jest senior*:  bend the rules - breaking with tradition
+*** my naginamy świadomie reguły, wiemy gdzie nie do końca zadziałają, wiemy gdzie trzeba zrobić w inny sposób
 ** *tu chcemy aby senior był*: be the rules - all moves are natural, becoming one with spirit alone
+*** stajemy się regułami, nie myślimy nawet o tym, że pewne rzeczy trzeba zrobić w taki, a nie inny sposób
+*** przykład clean code: jeżeli piszemy zgodnie z clean code dostatecznie długo to nie zastanawiamy się świadomie nad tym, że piszemy czysty kod, my go po prostu piszemy
 
-{zwsp}
-
-* co więcej - when one teaches two learn
+* ucząć młodszych seniorzy mogą osiągać te wyższe poziomy
+** jeżeli przekazujemy te reguły juniorom to my je sobie przyswajamy w zupełnie nowy sposób, mocniej, dużo bardziej efektywnie
+* powiedzenie - when one teaches two learn
 ** *ucząć młodszych, starszy wchodzi na kolejny poziom*
-** starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie +
-czuje się potrzebny
-** wiedza staje się dla niego naturalna
-
+** starszy ugruntowuje status, łechce ego - ale nie bezproduktywnie + czuje się potrzebny
+** do tego senior może chce zrobić coś innego niż tylko gaszenie pożarów na produkcji
 ====
+
 
 == Nasz gadzi mózg nie chce kary, chce nagrody
 
 [NOTE.speaker]
 ====
-* Wiemy co, nie wiemy jak i dlaczego?
-** Jak _wymusić na starszyźnie_ takie zachowanie?
-* Jeżeli stymulacja kojarzy się pozytywnie (z nagrodą) to nasz mózg naturalnie będzie do tego dążył
-* Modeluj świat do okoła zespołu aby odpowiadał na te potrzeby
-* Oczywiście nie zawsze, miałem kilku opornych zawodników gdzie to nie działało!
+* Nasz gadzi mózg nie chce kary, chce nagrody
+* nasz mózg jest skonstruowany w taki sposób, że zachowania, które stymulują nas pozytywnie, to są te zachowania, w kierunku których naturalnie chcemy podążąć
+* jeżeli my jako lider będziemy w stanie tak układać pracę
+** żeby z jednej strony potrzeba statusu seinor programisty zostanie zaspokojona, żeby czuł się doceniony
+** i z drugiej strony potrzeba przynależności juniora do zespołu, potrzeba bliskiej współpracy z kimś też była spełniona
 ====
+
 
 == SCARF framework
 
@@ -101,29 +118,33 @@ _-- David Rock, 2008_
 
 [NOTE.speaker]
 ====
-* *Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
-** Status - poczucie istotności dla innych
-** Pewność  / przewidywalność - wiemy co wydarzy się w przyszłości
-** Autonomia - poczucie kontroli i wpływu
-** Przynależność - bezpieczeństwo w kontaktach / relacjach z innymi
-** Sprawiedliwość - uczciwej relacji pomiędzy ludźmi
-====
-
-== SCARF framework
-
-*Status*, *Certainty*, *Autonomy*, *Relatedness*, *Fairness*
-
-_-- David Rock, 2008_
-
-[NOTE.speaker]
-====
+* Następnym przydatnym elementem układanki jest framework stworzony przez Davida Rocka
+** pozwala nam ocenić każdą decyzję w 5ciu kategoriach
 *Status, Pewność  / przewidywalność, Autonomia, Przynależność, Sprawiedliwość*
 
-* zrobić ewaluację na podstawie frameworku skrajnych decyzji
-** student jest po to aby przeklepywać dane z excela
-** to jest senior, super samodzielnie zadania komandosa
+* za jego pomocą możemy ocenić decyzję, zadania, tego co zamierzamy powiedzieć danej osoby
+** np. pod względem tego czy wpłynie to pozytywnie na status tej osoby w zespole,
+** czy będzie miał większą przewidywalność tego co się wydarzy w projekcie
+** czy podkreśla w jakiś sposób jego autonomię
+** czy jest sprawiedliwy
+** czy umacnia przynależność do zespołu
 * Łączac starszych i młodszych powodujemy że ta sama decyzja odpowiada na różne potrzeby u różnych osób.
-** Np. Status i Przynależność
+* przykład z punktu widzenia juniora:
+** junior: ja nic nie wiem, boję się, tu są sami wyjadacze, jestem szczylem, który dopiero skończył studia
+** łączymy go w parę z seniorem
+** rośnie poczucie statusu, bo się czegoś uczę
+** rośnie poczucie pewności: oni nie chcą mnie wywalić, nie mam parzyć kawy
+** rośnie poczucie autonomii: ja mam wpływ na to jak ten ticket będzie wyglądał, mogę z tym seniorem dyskutować
+** rośnie poczucie przynależności: robimy ten ticket razem
+** rośnie poczucie sprawiedliwości: ja się uczę, a on uczy się uczyć innych
+* przykład z punktu widzenia seniora:
+** rośnie poczucie statusu, bo kogoś uczę, ego rośnie
+** rośnie poczucie pewności: ja jestem potrzebny, uczę go nie po to żeby mnie później zwolnili
+** rośnie poczucie autonomii: mam swojego juniora na wychowaniu, nikt mi się nie wchrzania jak go uczę, ktoś mi zaufał, że wiem co robię
+** rośnie poczucie przynależności: kolejny członek zespołu, przynależymy do jednej grupy
+** rośnie poczucie sprawiedliwości: ja mam duże doświadczenie, on nie, ja go uczę
+
+* możemy używać do oceny pomysłu przed jego wprowadzeniem w życie
 ====
 
 [%notitle, data-background-image=https://media.giphy.com/media/8kznZeCRpDgeA/giphy.gif, data-background-size=cover]
@@ -131,6 +152,8 @@ _-- David Rock, 2008_
 
 [NOTE.speaker]
 ====
+* i możemy się zastanowić, że jak nam tak dobrze idzie balansowanie tego zespołu, który staje się coraz bardziej samowystarczalny, to może pojawić się strach, że ja tu już nie będę potrzebny?!
+* ale to dobrze, bo jest to okazja, żeby wychować swojego nastepcę, przekazać mu schedę, a my będziemy wolni do kolejnego wyzwania
 * Jak masz mix zespołu to możesz seniorowi dać niezależność i odpowiedzialność
-** *Trzeba rozwijać / chodować następce*
+** *Trzeba ten zespół rozwijać i chodować następce*
 ====
